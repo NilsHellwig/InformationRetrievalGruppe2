@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/css/base.css">
+        <link rel="stylesheet" href="/css/questionnaire.css">
+        <title>Base-Questionnaire</title>
+    </head>
+
+    <body>
+        
+        <header>
+            <h1>Questionnaire</h1>
+            <h2></h2>
+        </header>
+            <form method="POST" action="/store/generic-data/baseline/base_questionnaire?redirectTo=/post_questionnaire.htm">
+                <div class="question__wrapper">
+                    <div class="question">
+                        <span class="question__text">Out of 100 .com websites how many websites do you estimate are credible? (on a scale from 0 to 100)</span><br>
+                        <div class="question__box">
+                            <input required type="text" name="base_one" placeholder="0-100" min="0" max="100">
+                            <label for="base_three">on a scale from 0 to 100</label>
+                        </div>
+                    </div>
+                    
+                    <div class="question">
+                        <span class="question__text">Out of 100 .edu websites how many websites do you estimate are credible? (on a scale from 0 to 100)</span><br>
+                        <div class="question__box">
+                            <input required type="text" name="base_two" placeholder="0-100" min="0" max="100">
+                            <label for="base_three">on a scale from 0 to 100</label>
+                        </div>
+                    </div>
+
+                    <div class="question">
+                        <span class="question__text">Out of 100 .org websites how many websites do you estimate are credible? (on a scale from 0 to 100)</span><br>
+                        <div class="question__box">
+                            <input required type="text" name="base_three" placeholder="0-100" min="0" max="100">
+                            <label for="base_three">on a scale from 0 to 100</label>
+                        </div>
+                    </div>
+
+                    <div class="question">
+                        <span class="question__text">Out of 100 .gov websites how many websites do you estimate are credible? (on a scale from 0 to 100)</span><br>
+                        <div class="question__box">
+                            <input required type="text" name="base_four" placeholder="0-100" min="0" max="100">
+                            <label for="base_four">on a scale from 0 to 100</label>
+                        </div>
+                    </div>
+
+                    <div class="question">
+                        <span class="question__text">The text shown in the search results of this study helped me to judge the credibility of the website.</span><br>
+                        <span class="scale__text">Completely Disagree</span>
+                            <div class="radio__container">
+                                <div class="radio__btns">
+                                    <div class="radio__vals">-3</div>
+                                    <div class="radio__vals">-2</div>
+                                    <div class="radio__vals">-1</div>
+                                    <div class="radio__vals">0</div>
+                                    <div class="radio__vals">1</div>
+                                    <div class="radio__vals">2</div>
+                                    <div class="radio__vals">3</div>
+                                    <input value="-3" required type="radio" name="base_five">
+                                    <input value="-2" type="radio" name="base_five">
+                                    <input value="-1" type="radio" name="base_five">
+                                    <input value="0" type="radio" name="base_five">
+                                    <input value="1" type="radio" name="base_five">
+                                    <input value="2" type="radio" name="base_five">
+                                    <input value="3" type="radio" name="base_five">
+                                </div>
+                            </div>
+                        <span class="scale__text">Completely Agree</span>
+                    </div>
+                    
+
+                
+                
+
+            <input type="submit" value="Submit answers">
+            </form>
+            </div>
+
+    </body>
+</html>

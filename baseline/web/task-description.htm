@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Task Description</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/snippet-style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Task Description</h1>
+        <p>Thank you for completing the questionnaire.</p>
+
+        <p>During the course of the experiment you will be given 4 queries on different nutritional topics.
+            For each of them you will see some search results. It's your task to provide a credibility rating for the
+            information found on the website without having access to it. Credibility refers to the extend to which the
+            content of a page can be considered to present unbiased, correct and balanced information.
+            <br>
+            Your credibility judgement will be given on a 11 point scale ranging from "very non credible" to "very credible".
+            Please use the neutral option only if you have no idea what information the website could contain.</p>
+        <p>Please note that we are only interested in the credibility of information found on the page that would open
+            if you clicked on the search result, <b>not</b> in the general credibility of the whole website.</p>
+
+        <p>The search results will look like the example below. They are based on the standard search results you are
+            familiar with from search engines like Google. The search results <b>appear in a random order</b>, which
+            means that there is no relationship between their order and their credibility.
+            <br>It consists of:
+            <ul>
+                <li>the title of the website</li>
+                <li>the url of the website</li>
+                <li>two sentences that were extracted from the page that are representative for the page's content</li>
+            </ul>
+        </p>
+
+        <div class="snippet-wrapper">
+            <div class="snippet-title">Diet Overview: What Diets Are There & What Should You Know?</div>
+            <div class="snippet-url">https://www.runtastic.com/blog/en/diet-overview/</div>
+            <div class="snippet-description">Lose as much weight as possible in a short time – that’s what a lot of people want to do. Some people try a diet to achieve this goal quickly.</div>
+            <div class="question likert">
+                <span class="scale__text">Very non credible</span>
+                    <div class="radio__container">
+                        <div class="radio__btns">
+                            <div class="radio__vals">-5</div>
+                            <div class="radio__vals">-4</div>
+                            <div class="radio__vals">-3</div>
+                            <div class="radio__vals">-2</div>
+                            <div class="radio__vals">-1</div>
+                            <div class="radio__vals">0</div>
+                            <div class="radio__vals">1</div>
+                            <div class="radio__vals">2</div>
+                            <div class="radio__vals">3</div>
+                            <div class="radio__vals">4</div>
+                            <div class="radio__vals">5</div>
+                            <input value="-5" required type="radio" name="{placeholder}">
+                            <input value="-4" required type="radio" name="{placeholder}">
+                            <input value="-3" required type="radio" name="{placeholder}">
+                            <input value="-2" required type="radio" name="{placeholder}">
+                            <input value="-1" required type="radio" name="{placeholder}">
+                            <input value="0" required type="radio" name="{placeholder}">
+                            <input value="1" required type="radio" name="{placeholder}">
+                            <input value="2" required type="radio" name="{placeholder}">
+                            <input value="3" required type="radio" name="{placeholder}">
+                            <input value="4" required type="radio" name="{placeholder}">
+                            <input value="5" required type="radio" name="{placeholder}">
+                        </div>
+                    </div>
+                <span class="scale__text">Very credible</span>
+            </div>
+
+        <a href="experiment.htm" class="button">Weiter</a>
+    </div>
+
+    <!-- 'Disabling' Back-Button -->
+    <script>
+        // https://stackoverflow.com/questions/12381563/how-to-stop-browser-back-button-using-javascript/20321530#20321530
+        history.pushState(null, document.title, location.href);
+        window.addEventListener('popstate', function (event) {
+            history.pushState(null, document.title, location.href);
+        });
+    </script>
+</body>
+
+</html>
