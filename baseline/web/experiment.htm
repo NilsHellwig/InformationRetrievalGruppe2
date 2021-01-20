@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="/css/base.css">
-
     <link rel="stylesheet" href="/css/snippet-style.css">
+    <link rel="stylesheet" href="/css/author_badge.css">
 
 </head>
 
@@ -28,17 +28,12 @@
 
             </div>
         </div>
-        <!--
-        <div class="search_bar">
-            <input class="search_input" type="text" value="Hello" readonly>
-            <input class="search_button" type="button" value="Search">
-        </div>
-    -->
+
     </header>
     <main>
         <div class="form_container">
             <form id="snippet_form"
-            action="/store/judgement-result?redirectTo=/serp/serp-finished_switch%3FredirectOnUnfinished%3D/groups/baseline/experiment.htm%26redirectOnFinished%3D/groups/baseline/base_questionnaire.htm"
+            action="/store/judgement-result?redirectTo=/serp/serp-finished_switch%3FredirectOnUnfinished%3D/groups/author/experiment.htm%26redirectOnFinished%3D/groups/author/base_questionnaire.htm"
                 method="POST" class="main__container">
                 <div class="snippets-wrapper">
 
@@ -51,17 +46,55 @@
     <footer>
     </footer>
 
+    <style>
+	.snippets-wrapper >.snippet-wrapper {
+	    display: grid;
+	    grid-template-columns: 70% 30%;
+	    grid-column-gap: 40px;
+	    max-width: 900px !important;
+	}
 
+	.snippet-wrapper .snippet-img > img {
+	    max-height: 100px;
+	    width: auto;
+	    display: inline-block;
+	}
+
+
+	.snippet-img {
+	    display:inline-block;
+	    width: 15%;
+	    text-align:right;
+	}
+
+	.snippet-hint {
+	    display:inline-block;
+	    width:80%;
+	}
+
+	.snippet-info-wrapper {
+	    grid-area: 1/2/3/2;
+	}
+
+    </style>
     <div id="template" hidden>
         <div class="snippet">
-            <div class="snippet-title">Kanye West did it again!</div>
-            <div class="snippet-url">http://www.whatiskanyeup.to</div>
-            <div class="snippet-description">
+            <div class="snippet-title first-snippet-row">Kanye West did it again!</div>
+            <div class="snippet-url second-snippet-row">http://www.whatiskanyeup.to</div>
+            <div class="snippet-description third-snippet-row">
                 <p>In a shocking revelation surprising no one Kanye West has officially <br>
                     announced his candidacy in the 2020 US election.<br>"Ain't no Trump gonna do
                     a second term on my watch"</p>
             </div>
-            <div class="question likert">
+	    <div class="snippet-info-wrapper">
+		    <div class="snippet-hint">
+		        Hint text goes here
+		    </div>
+		    <div class="snippet-img">
+			<img src="/media/red.png">
+		    </div>
+	    </div>
+            <div class="question likert fourth-snippet-row">
                 <span class="scale__text">Very non credible</span>
                     <div class="radio__container">
                         <div class="radio__btns">
@@ -115,6 +148,7 @@
     let template_sentence_one;
     let template_sentence_two;
     let template_radio_container;
+    let template_additional;
 
     let formData;
     let json_data;
@@ -153,6 +187,8 @@
         this.template_content = this.template.querySelector(".snippet-description");
         this.template_radio_container = document.querySelector(".likert");
         this.snippet_container = document.querySelector(".snippets-wrapper");
+        this.template_additional = this.template.querySelector(".snippet-info-wrapper");
+
         // this.json_data = test_data;
 
 
@@ -182,11 +218,22 @@
         this.template_url.innerHTML = data_obj.data.url
         this.template_content.innerHTML = data_obj.data.content
 
+	this.template_additional.innerHTML = `
+		    <div class="snippet-hint">
+		        ${data_obj.data.warning}
+		    </div>
+		    <div class="snippet-img">
+			<img src="/media/${data_obj.data.color}">
+		    </div>`
+//        this.template_hint.innerHTML = data_obj.data.warning
+//        this.template_img.innerHTML = "<img src=\"/media/" + data_obj.data.color + "\" alt=\"\"/>"
+
 
 
         node.appendChild(this.template_title.cloneNode(true))
         node.appendChild(this.template_url.cloneNode(true))
         node.appendChild(this.template_content.cloneNode(true))
+	node.appendChild(this.template_additional.cloneNode(true))
 
         const instance_radio_container = this.template_radio_container.cloneNode(true)
 
