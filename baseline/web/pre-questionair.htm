@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" /> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <link rel="stylesheet" href="/fir/css/base.css">
+        <link rel="stylesheet" href="style.css">
+        <title>Pretask-Questionnaire</title>
+    </head>
+    <body>
+        
+        <header>
+            <h1>Questionnaire</h1>
+        </header>
+            <form action="/fir/store/pre-questionnaire?redirectTo=/fir/ati_questionnaire.htm"
+            method="POST">
+                <div class="question__wrapper">
+                    <div class="question">
+                        <span class="question__text">1- Have you ever seen warning hints about false or misleading information on the internet?
+                        </span><br>
+                        <span class="scale__text"></span>
+                            <div class="radio__container">
+                                <div class="radio__btns">
+                                    <div class="radio__vals">No</div>
+                                    <input value="No" required type="radio" name="KnowWhereToFind">
+                                    <div class="radio__vals">Yes</div>
+                                    <input value="YES" required type="radio" name="KnowWhereToFind">
+                                </div>
+                                
+                            </div>
+                        <span class="scale__text"></span>
+                    </div>
+                    
+                    <div class="question">
+                        <span class="question__text">Do you trust automatically generated warning hints for false or misleading information?
+                        </span><br>
+                        <span class="scale__text">Not at all</span>
+                            <div class="radio__container">
+                                <div class="radio__btns">
+                                    <div class="radio__vals">-3</div>
+                                    <div class="radio__vals">-2</div>
+                                    <div class="radio__vals">-1</div>
+                                    <div class="radio__vals">0</div>
+                                    <div class="radio__vals">1</div>
+                                    <div class="radio__vals">2</div>
+                                    <div class="radio__vals">3</div>
+                                    <input value="-3" required type="radio" name="TrustWarningHints">
+                                    <input value="-2" required type="radio" name="TrustWarningHints">
+                                    <input value="-1" required type="radio" name="TrustWarningHints">
+                                    <input value="0" required type="radio" name="TrustWarningHints">
+                                    <input value="1" required type="radio" name="TrustWarningHints">
+                                    <input value="2" required type="radio" name="TrustWarningHints">
+                                    <input value="3" required type="radio" name="TrustWarningHints">
+                                </div>
+                            </div>
+                        <span class="scale__text">Very much</span>
+                    </div>
+
+                    <div class="question">
+                        <span class="question__text">3-How much do you agree with the following statement?<br>“The automated systems for detecting false or misleading information should be used more often”.</span><br>
+                        <span class="scale__text">Not at all</span>
+                            <div class="radio__container">
+                                <div class="radio__btns">
+                                    <div class="radio__vals">-3</div>
+                                    <div class="radio__vals">-2</div>
+                                    <div class="radio__vals">-1</div>
+                                    <div class="radio__vals">0</div>
+                                    <div class="radio__vals">1</div>
+                                    <div class="radio__vals">2</div>
+                                    <div class="radio__vals">3</div>
+                                    <input value="-3" required type="radio" name="WarningLabelsShouldBeUsed">
+                                    <input value="-2" required type="radio" name="WarningLabelsShouldBeUsed">
+                                    <input value="-1" required type="radio" name="WarningLabelsShouldBeUsed">
+                                    <input value="0" required type="radio" name="WarningLabelsShouldBeUsed">
+                                    <input value="1" required type="radio" name="WarningLabelsShouldBeUsed">
+                                    <input value="2" required type="radio" name="WarningLabelsShouldBeUsed">
+                                    <input value="3" required type="radio" name="WarningLabelsShouldBeUsed">
+                                </div>
+                            </div>
+                        <span class="scale__text">Very much</span>
+                    </div>  
+                    <input type="submit" value="Submit answers">
+                </div>
+                
+
+            </form>
+
+            <script>
+                // https://stackoverflow.com/questions/12381563/how-to-stop-browser-back-button-using-javascript/20321530#20321530
+                history.pushState(null, document.title, location.href);
+                window.addEventListener('popstate', function (event) {
+                    history.pushState(null, document.title, location.href);
+                });
+            </script>
+            
+
+    </body>
+</html>
