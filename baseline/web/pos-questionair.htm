@@ -5,7 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         <link rel="stylesheet" href="/fir/css/base.css">
-        <link rel="stylesheet" href="style.css">
+        <!--<link rel="stylesheet" href="style.css">-->
+        <link rel="stylesheet" href="questionnaire.css">
         <title>Pretask-Questionnaire</title>
     </head>
     <body>
@@ -18,9 +19,9 @@
                 <div class="question__wrapper">
                     
                     <div class="question">
-                        <span class="question__text">1- How much did the warning hints influence your decision on judging the correctness of the snippet?
+                        <span class="question__text">1.1- How much did the textual hints influence your decision on judging the correctness of the snippet?
                         </span><br>
-                        <span class="scale__text">Completely Disagree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Not at all</span>
                             <div class="radio__container">
                                 <div class="radio__btns">
                                     <div class="radio__vals">-3</div>
@@ -39,12 +40,36 @@
                                     <input value="3" required type="radio" name="InfluenceOfWarningHints">
                                 </div>
                             </div>
-                        <span class="scale__text">Completely Agree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Very much</span>
                     </div>
                     <div class="question">
-                        <span class="question__text">2- Did you find the warning hints helpful in determining the credibility (/correctness) of the snippets?
+                        <span class="question__text">1.2- How much did the visual hints influence your decision on judging the correctness of the snippet?
                         </span><br>
-                        <span class="scale__text">Completely Disagree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Not at all</span>
+                            <div class="radio__container">
+                                <div class="radio__btns">
+                                    <div class="radio__vals">-3</div>
+                                    <div class="radio__vals">-2</div>
+                                    <div class="radio__vals">-1</div>
+                                    <div class="radio__vals">0</div>
+                                    <div class="radio__vals">1</div>
+                                    <div class="radio__vals">2</div>
+                                    <div class="radio__vals">3</div>
+                                    <input value="-3" required type="radio" name="InfluenceOfWarningHints">
+                                    <input value="-2" required type="radio" name="InfluenceOfWarningHints">
+                                    <input value="-1" required type="radio" name="InfluenceOfWarningHints">
+                                    <input value="0" required type="radio" name="InfluenceOfWarningHints">
+                                    <input value="1" required type="radio" name="InfluenceOfWarningHints">
+                                    <input value="2" required type="radio" name="InfluenceOfWarningHints">
+                                    <input value="3" required type="radio" name="InfluenceOfWarningHints">
+                                </div>
+                            </div>
+                        <span class="scale__text" style="margin-left: 75px;">Very much</span>
+                    </div>
+                    <div class="question">
+                        <span class="question__text">2.1- Did you find the textual hints helpful in determining the credibility (/correctness) of the snippets?
+                        </span><br>
+                        <span class="scale__text" style="margin-left: 75px;">Not at all</span>
                             <div class="radio__container">
                                 <div class="radio__btns">
                                     <div class="radio__vals">-3</div>
@@ -63,12 +88,36 @@
                                     <input value="3" required type="radio" name="HelpfulOfWarningHints">
                                 </div>
                             </div>
-                        <span class="scale__text">Completely Agree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Very much</span>
+                    </div>
+                    <div class="question">
+                        <span class="question__text">2.2- Did you find the visual hints helpful in determining the credibility (/correctness) of the snippets?
+                        </span><br>
+                        <span class="scale__text" style="margin-left: 75px;">Not at all</span>
+                            <div class="radio__container">
+                                <div class="radio__btns">
+                                    <div class="radio__vals">-3</div>
+                                    <div class="radio__vals">-2</div>
+                                    <div class="radio__vals">-1</div>
+                                    <div class="radio__vals">0</div>
+                                    <div class="radio__vals">1</div>
+                                    <div class="radio__vals">2</div>
+                                    <div class="radio__vals">3</div>
+                                    <input value="-3" required type="radio" name="HelpfulOfWarningHints">
+                                    <input value="-2" required type="radio" name="HelpfulOfWarningHints">
+                                    <input value="-1" required type="radio" name="HelpfulOfWarningHints">
+                                    <input value="0" required type="radio" name="HelpfulOfWarningHints">
+                                    <input value="1" required type="radio" name="HelpfulOfWarningHints">
+                                    <input value="2" required type="radio" name="HelpfulOfWarningHints">
+                                    <input value="3" required type="radio" name="HelpfulOfWarningHints">
+                                </div>
+                            </div>
+                        <span class="scale__text" style="margin-left: 75px;">Very much</span>
                     </div>
                     <div class="question">
                         <span class="question__text">3- Did you think the warning hints provided you with enough information on why they were displayed?
                         </span><br>
-                        <span class="scale__text">Completely Disagree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Not at all</span>
                             <div class="radio__container">
                                 <div class="radio__btns">
                                     <div class="radio__vals">-3</div>
@@ -87,14 +136,14 @@
                                     <input value="3" required type="radio" name="EnoughInfoWarningHints">
                                 </div>
                             </div>
-                        <span class="scale__text">Completely Agree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Very much</span>
                     </div>
                     <div class="question">
                         <span class="question__text">4-  How much do you agree with the following statement?
                             <br>“The warning hints were designed in a way that made them easy to understand”.
                             
                         </span><br>
-                        <span class="scale__text">Completely Disagree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Completely Disagree</span>
                             <div class="radio__container">
                                 <div class="radio__btns">
                                     <div class="radio__vals">-3</div>
@@ -113,20 +162,20 @@
                                     <input value="3" required type="radio" name="InfluenceOfWarningHints">
                                 </div>
                             </div>
-                        <span class="scale__text">Completely Agree</span>
+                        <span class="scale__text" style="margin-left: 75px;">Completely Agree</span>
                     </div>
                     <div class="question">
-                        <span class="question__text">5- Which elements of the snippets were essential for your decision on judging the correctness?
+                        <span class="question__text">5-Which elements of the snippets were essential for your decision on judging the correctness?
                         </span><br>
-                        <span class="scale__text"></span>
+                        <span class="scale__text" style="margin-left: 75px;"></span>
                             <div class="radio__container">
                                 <div class="radio__btns">
-                                    <div class="radio__vals">title</div>
-                                    <div class="radio__vals">summary</div>
-                                    <div class="radio__vals">source</div>
-                                    <input value="title" required type="checkbox" name="ElementsWarningHints">
-                                    <input value="summary" required type="checkbox" name="ElementsWarningHints">
-                                    <input value="source" required type="checkbox" name="ElementsWarningHints">
+                                    <div class="radio__vals">textual hint</div>
+                                    <div class="radio__vals">visual hint</div>
+                                    <div class="radio__vals">both</div>
+                                    <input value="textual hint" required type="radio" name="ElementsWarningHints">
+                                    <input value="visual hint" required type="radio" name="ElementsWarningHints">
+                                    <input value="both" required type="radio" name="ElementsWarningHints">
 
                                 </div>
                             </div>
