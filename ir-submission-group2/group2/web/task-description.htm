@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Task Description</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/snippet-style.css">
+    <style>
+        .snippet-wrapper {
+            display: grid;
+            grid-template-columns: 70% 30%;
+            grid-column-gap: 40px;
+            max-width: 900px !important;
+        }
+    
+        .snippet-wrapper .snippet-img > img {
+            max-height: 100px;
+            width: auto;
+            display: inline-block;
+        }
+    
+    
+        .snippet-img {
+            display:inline-block;
+            width: 15%;
+            text-align:right;
+        }
+    
+        .snippet-hint {
+            display:inline-block;
+            width:80%;
+        }
+    
+        .snippet-info-wrapper {
+            grid-area: 1/2/4/2;
+        }
+    
+        .question {
+        grid-area: 4/2/4/1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Task Description</h1>
+        <p>Thank you for completing the questionnaire.</p>
+
+        <p>During the course of the experiment you will be given 6 queries on different COVID-19-related topics.
+            For each of them you will see some search results. It's your task to provide a credibility rating for the
+            information found on the website without having access to it. Credibility refers to the extend to which the
+            content of a page can be considered to present unbiased, correct and balanced information.
+            <br>
+            Your credibility judgement will be given on a 11 point scale ranging from "very non credible" to "very credible".
+            Please use the neutral option only if you have no idea what information the website could contain.</p>
+        <p>Please note that we are only interested in the credibility of information found on the page that would open
+            if you clicked on the search result, <b>not</b> in the general credibility of the whole website.</p>
+
+        <p>The search results will look like the example below. They are based on the standard search results you are
+            familiar with from search engines like Google. The search results <b>appear in a random order</b>, which
+            means that there is no relationship between their order and their credibility.
+            <br>It consists of:
+            <ul>
+                <li>the title of the website</li>
+                <li>the url of the website</li>
+                <li>two sentences that were extracted from the page that are representative for the page's content</li>
+                <li><b>traffic light figures</b> (green: AI predicts credible, yellow: n/a, red: AI predicts non-credible)</li>
+                <li><b>textual hints</b> to provide textual context on AI predictions</li>
+
+            </ul>
+        </p>
+
+        <div class="snippet-wrapper"><div class="snippet-url">www.thehindu.com › news › cities › chennai</div><div class="snippet-title">What does COVID-19 mean for kidneys? - The Hindu</div><div class="snippet-description">The reason for this was the direct involvement of the kidneys with the virus and also the inflammatory toxins ( cytokines) released in sick patients. One interesting finding was that...</div><div class="snippet-info-wrapper">
+		    <div class="snippet-hint">
+		        Based on the content, language and advertisements on this page, there is a risk that this page is not credible!
+		    </div>
+		    <div class="snippet-img">
+			<img src="/media/group2-red.jpg">
+            </div></div><div class="question likert">
+                <span class="scale__text">Very non credible</span>
+                    <div class="radio__container">
+                        <div class="radio__btns">
+                            <div class="radio__vals">-5</div>
+                            <div class="radio__vals">-4</div>
+                            <div class="radio__vals">-3</div>
+                            <div class="radio__vals">-2</div>
+                            <div class="radio__vals">-1</div>
+                            <div class="radio__vals">0</div>
+                            <div class="radio__vals">1</div>
+                            <div class="radio__vals">2</div>
+                            <div class="radio__vals">3</div>
+                            <div class="radio__vals">4</div>
+                            <div class="radio__vals">5</div>
+                            <input value="-5" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="-4" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="-3" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="-2" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="-1" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="0" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="1" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="2" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="3" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="4" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                            <input value="5" required="" type="radio" name="0ec0fc93-20d0-4bdc-9d36-a1ac105f6936">
+                        </div>
+                    </div>
+                <span class="scale__text">Very credible</span>
+            </div>
+	</div>
+
+        <a href="experiment.htm" class="button">Continue</a>
+    </div>
+
+    <!-- 'Disabling' Back-Button -->
+    <script>
+        // https://stackoverflow.com/questions/12381563/how-to-stop-browser-back-button-using-javascript/20321530#20321530
+        history.pushState(null, document.title, location.href);
+        window.addEventListener('popstate', function (event) {
+            history.pushState(null, document.title, location.href);
+        });
+    </script>
+</body>
+
+</html>

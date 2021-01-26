@@ -1,0 +1,274 @@
+<!DOCTYPE hml>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="/css/base.css">
+
+    <link rel="stylesheet" href="/css/snippet-style.css">
+    <style>
+        .snippets-wrapper >.snippet-wrapper {
+            display: grid;
+            grid-template-columns: 70% 30%;
+            grid-column-gap: 40px;
+            max-width: 900px !important;
+        }
+    
+        .snippet-wrapper .snippet-img > img {
+            max-height: 100px;
+            width: auto;
+            display: inline-block;
+        }
+    
+    
+        .snippet-img {
+            display:inline-block;
+            width: 15%;
+            text-align:right;
+        }
+    
+        .snippet-hint {
+            display:inline-block;
+            width:80%;
+        }
+    
+        .snippet-info-wrapper {
+            grid-area: 1/2/4/2;
+        }
+    
+        .question {
+        grid-area: 4/2/4/1;
+        }
+    </style>
+
+</head>
+
+<body>
+    <header>
+        <div class="icon">
+
+        </div>
+
+        <div>
+            <h1 id="task_header">Task</h1>
+            <!-- <div id="task"></div> -->
+            <div>
+                <p>You are looking for information about the following topic:
+                    <i><span id="query_span"></span></i>
+                </p>
+                <p>You receive the following search results for this query: (they are presented in random order!)</p>
+
+            </div>
+        </div>
+        <!--
+        <div class="search_bar">
+            <input class="search_input" type="text" value="Hello" readonly>
+            <input class="search_button" type="button" value="Search">
+        </div>
+    -->
+    </header>
+    <main>
+        <div class="form_container">
+            <form id="snippet_form"
+            action="/store/judgement-result?redirectTo=/serp/serp-finished_switch%3FredirectOnUnfinished%3D/groups/baseline/experiment.htm%26redirectOnFinished%3D/groups/baseline/base_questionnaire.htm"
+                method="POST" class="main__container">
+                <div class="snippets-wrapper">
+
+                </div>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </main>
+
+    <footer>
+    </footer>
+
+
+    <div id="template" hidden>
+        <div class="snippet">
+            <div class="snippet-url">http://www.whatiskanyeup.to</div>
+            <div class="snippet-title">Kanye West did it again!</div>
+            <div class="snippet-description">
+                <p>In a shocking revelation surprising no one Kanye West has officially <br>
+                    announced his candidacy in the 2020 US election.<br>"Ain't no Trump gonna do
+                    a second term on my watch"</p>
+            </div>
+	    <div class="snippet-info-wrapper">
+                <div class="snippet-hint">
+                    Hint text goes here
+                </div>
+                <div class="snippet-img">
+                    <img src="/media/red.png">
+
+                </div>
+            </div>
+            <div class="question likert">
+                <span class="scale__text">Very non credible</span>
+                    <div class="radio__container">
+                        <div class="radio__btns">
+                            <div class="radio__vals">-5</div>
+                            <div class="radio__vals">-4</div>
+                            <div class="radio__vals">-3</div>
+                            <div class="radio__vals">-2</div>
+                            <div class="radio__vals">-1</div>
+                            <div class="radio__vals">0</div>
+                            <div class="radio__vals">1</div>
+                            <div class="radio__vals">2</div>
+                            <div class="radio__vals">3</div>
+                            <div class="radio__vals">4</div>
+                            <div class="radio__vals">5</div>
+                            <input value="-5" required type="radio" name="{placeholder}">
+                            <input value="-4" required type="radio" name="{placeholder}">
+                            <input value="-3" required type="radio" name="{placeholder}">
+                            <input value="-2" required type="radio" name="{placeholder}">
+                            <input value="-1" required type="radio" name="{placeholder}">
+                            <input value="0" required type="radio" name="{placeholder}">
+                            <input value="1" required type="radio" name="{placeholder}">
+                            <input value="2" required type="radio" name="{placeholder}">
+                            <input value="3" required type="radio" name="{placeholder}">
+                            <input value="4" required type="radio" name="{placeholder}">
+                            <input value="5" required type="radio" name="{placeholder}">
+                        </div>
+                    </div>
+                <span class="scale__text">Very credible</span>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    /*
+            add verification or make fields necessary
+            func get json
+            func get target
+            func fill in query
+            func fill template w/ ID
+            func add template w/ position
+            func send necessary form data
+        */
+
+    let template;
+    let snippet_container;
+
+    // fields which need to be filled
+    let template_title;
+    let template_url;
+    let template_content;
+    let template_sentence_one;
+    let template_sentence_two;
+    let template_radio_container;
+    let template_additional;
+
+    let formData;
+    let json_data;
+
+
+    let test_data = {
+
+        "serpData": [{
+                "docId": 0,
+                "data": {
+                    "title": "Test_title",
+                    "url": "https://www.hello_world.us",
+                    "content": "This is the standard content schnitzler",
+                    "sentence_one": "Hello world",
+                    "sentence_two": "Halo world",
+                }
+            },
+            {
+                "docId": 1,
+                "data": {
+                    "title": "Test_title",
+                    "url": "https://www.hello_world.us",
+                    "content": "This is the standard content schnitzler",
+                    "sentence_one": "Hello worlAJSLd",
+                    "sentence_two": "Halo world",
+                }
+            },
+        ]
+    };
+
+
+    function init() {
+        this.template = document.querySelector("#template");
+        this.template_url = this.template.querySelector(".snippet-url");
+        this.template_title = this.template.querySelector(".snippet-title");
+        this.template_content = this.template.querySelector(".snippet-description");
+        this.template_radio_container = document.querySelector(".likert");
+        this.snippet_container = document.querySelector(".snippets-wrapper");
+        this.template_additional = this.template.querySelector(".snippet-info-wrapper");
+
+
+        fetch('/serp/data')
+            .then((response) => {
+                return response.json();
+            })
+            .then((serpData) => {
+                console.log(serpData);
+                this.json_data = serpData;
+                let query = document.querySelector("#query_span");
+                query.innerText = this.json_data.topicData.query;
+                for (let it = 0; it < this.json_data.serpData.length; it++) {
+                    this.snippet_container.appendChild(fill_template(this.json_data.serpData[it]))
+                }
+            });
+    }
+
+    function getCleanURL(url) {
+        let urlArray = url.split('/');     
+        urlArray = urlArray.splice(2, 4).join(' › ')
+        return urlArray;
+    }
+
+    function fill_template(data_obj) {
+        let id = data_obj.docId
+        let node = document.createElement("div")
+        node.setAttribute("class", "snippet-wrapper")
+        this.template_title.innerHTML = data_obj.data.title
+        this.template_url.innerHTML = getCleanURL(data_obj.data.url)
+        this.template_content.innerHTML = data_obj.data.content.split(' ').splice(0, 30).join(' ') + '...'
+	let additionalHtml = `
+		    <div class="snippet-hint">
+		        ${data_obj.data.warning}
+		    </div>
+		    <div class="snippet-img">
+			<img src="/media/${data_obj.data.color}">
+		    </div>`;
+        this.template_additional.innerHTML = additionalHtml;
+
+
+        node.appendChild(this.template_url.cloneNode(true))
+        node.appendChild(this.template_title.cloneNode(true))
+        node.appendChild(this.template_content.cloneNode(true))
+        node.appendChild(this.template_additional.cloneNode(true))
+
+        const instance_radio_container = this.template_radio_container.cloneNode(true)
+
+        for(const radio_node of instance_radio_container.querySelectorAll("input")){
+            radio_node.setAttribute("name", id);
+        }
+        node.appendChild(instance_radio_container);
+
+        return node
+    }
+    init()
+
+    function onSub(event) {
+        event.preventDefault();
+        this.formData = new FormData(document.getElementById("snippet_form"))
+        for (let [key, val] of this.formData) {
+            alert(`${key}=${val}`);
+        }
+    }
+</script>
+
+<script>
+    // https://stackoverflow.com/questions/12381563/how-to-stop-browser-back-button-using-javascript/20321530#20321530
+    history.pushState(null, document.title, location.href);
+    window.addEventListener('popstate', function (event) {
+        history.pushState(null, document.title, location.href);
+    });
+</script>
+
+</html>
