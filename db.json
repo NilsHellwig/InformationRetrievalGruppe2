@@ -883,6 +883,422 @@
       ],
       "creation_timestamp": "2021-03-19T13:18:26.729Z",
       "id": "66cd26ca-4edf-4a42-a928-a6232b13554a"
+    },
+    {
+      "group": "group7",
+      "topic_order": [
+        "9",
+        "49",
+        "47",
+        "25",
+        "30",
+        "20"
+      ],
+      "creation_timestamp": "2021-03-19T13:25:28.951Z",
+      "id": "acd500db-98ee-480b-967d-6d9b58152647"
+    },
+    {
+      "group": "group7",
+      "topic_order": [
+        "25",
+        "49",
+        "47",
+        "30",
+        "20",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-19T13:25:34.660Z",
+      "id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c"
+    },
+    {
+      "group": "group7",
+      "topic_order": [
+        "49",
+        "20",
+        "47",
+        "25",
+        "30",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-19T13:26:39.662Z",
+      "id": "71a97308-c8ec-45a1-8052-f4695b1108c3"
+    },
+    {
+      "group": "group4",
+      "topic_order": [
+        "9",
+        "49",
+        "47",
+        "25",
+        "20",
+        "30"
+      ],
+      "creation_timestamp": "2021-03-19T13:42:59.758Z",
+      "id": "7f676837-ee9f-408b-aa52-7cfff297a2e0"
+    },
+    {
+      "group": "group6",
+      "topic_order": [
+        "47",
+        "9",
+        "25",
+        "20",
+        "30",
+        "49"
+      ],
+      "creation_timestamp": "2021-03-19T13:50:17.784Z",
+      "id": "9dbf213a-c153-4298-bdc3-eac45aacb6bc"
+    },
+    {
+      "group": "group6",
+      "topic_order": [
+        "47",
+        "25",
+        "49",
+        "30",
+        "20",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-19T13:52:40.332Z",
+      "id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d"
+    },
+    {
+      "group": "group3",
+      "topic_order": [
+        "30",
+        "9",
+        "20",
+        "25",
+        "49",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-19T14:00:43.019Z",
+      "id": "864072f4-835c-4d12-826d-caf580c6cc8d"
+    },
+    {
+      "group": "group3",
+      "topic_order": [
+        "49",
+        "30",
+        "20",
+        "9",
+        "25",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-19T14:07:55.226Z",
+      "id": "c830440f-2e33-4065-8e3a-132731dd085a"
+    },
+    {
+      "group": "group3",
+      "topic_order": [
+        "49",
+        "25",
+        "20",
+        "30",
+        "47",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-19T14:19:46.876Z",
+      "id": "bb7c124c-291c-49ca-8b87-757db6c01113"
+    },
+    {
+      "group": "group2",
+      "topic_order": [
+        "25",
+        "30",
+        "9",
+        "49",
+        "47",
+        "20"
+      ],
+      "creation_timestamp": "2021-03-19T14:28:51.775Z",
+      "id": "68025f71-8c90-42fc-9884-8378591d8a33"
+    },
+    {
+      "group": "group2",
+      "topic_order": [
+        "9",
+        "49",
+        "47",
+        "20",
+        "30",
+        "25"
+      ],
+      "creation_timestamp": "2021-03-19T14:33:51.972Z",
+      "id": "cd1b9903-3540-491f-b76e-9c320da45999"
+    },
+    {
+      "group": "group2",
+      "topic_order": [
+        "20",
+        "49",
+        "47",
+        "9",
+        "30",
+        "25"
+      ],
+      "creation_timestamp": "2021-03-19T15:04:14.789Z",
+      "id": "ea353353-2aba-4a92-8b13-5a2c6154faf8"
+    },
+    {
+      "group": "group2",
+      "topic_order": [
+        "25",
+        "9",
+        "30",
+        "47",
+        "49",
+        "20"
+      ],
+      "creation_timestamp": "2021-03-19T17:04:26.570Z",
+      "id": "8a10be79-d69e-4947-b21d-55c6355a564e"
+    },
+    {
+      "group": "group4",
+      "topic_order": [
+        "20",
+        "49",
+        "30",
+        "47",
+        "25",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-19T18:12:58.709Z",
+      "id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608"
+    },
+    {
+      "group": "group6",
+      "topic_order": [
+        "47",
+        "20",
+        "25",
+        "9",
+        "30",
+        "49"
+      ],
+      "creation_timestamp": "2021-03-19T19:23:41.696Z",
+      "id": "bf0480e0-3008-49eb-b7d7-18ad76a38b50"
+    },
+    {
+      "group": "group6",
+      "topic_order": [
+        "30",
+        "9",
+        "20",
+        "49",
+        "47",
+        "25"
+      ],
+      "creation_timestamp": "2021-03-19T22:13:58.916Z",
+      "id": "cebce9bd-5f8e-4f1c-91f2-07d9ac4207f6"
+    },
+    {
+      "group": "group6",
+      "topic_order": [
+        "30",
+        "20",
+        "47",
+        "25",
+        "9",
+        "49"
+      ],
+      "creation_timestamp": "2021-03-20T10:39:27.071Z",
+      "id": "f9bd109d-b49f-4897-a32f-a0818d545ae6"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "49",
+        "20",
+        "9",
+        "30",
+        "25",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-20T10:48:20.714Z",
+      "id": "e4ab0669-04bd-4192-a556-e34e5b83c843"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "25",
+        "9",
+        "49",
+        "47",
+        "30",
+        "20"
+      ],
+      "creation_timestamp": "2021-03-20T11:04:28.469Z",
+      "id": "631b929f-314c-4b65-b191-f62145a46580"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "47",
+        "49",
+        "20",
+        "9",
+        "30",
+        "25"
+      ],
+      "creation_timestamp": "2021-03-20T13:25:51.051Z",
+      "id": "318fe1e9-cfc2-4000-b93a-02bc4d9399db"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "20",
+        "25",
+        "30",
+        "49",
+        "47",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-20T14:20:31.106Z",
+      "id": "a358fefb-40ff-4181-b9cf-7ce19ea03aec"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "25",
+        "47",
+        "20",
+        "9",
+        "49",
+        "30"
+      ],
+      "creation_timestamp": "2021-03-20T14:21:28.079Z",
+      "id": "ae061943-93de-4186-af2f-8b0c25c48bb7"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "20",
+        "49",
+        "25",
+        "9",
+        "47",
+        "30"
+      ],
+      "creation_timestamp": "2021-03-20T14:27:46.626Z",
+      "id": "6bd8fd0b-a70c-4749-86b4-d3e0bc9fd047"
+    },
+    {
+      "group": "group5",
+      "topic_order": [
+        "25",
+        "49",
+        "30",
+        "20",
+        "47",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-20T14:29:30.164Z",
+      "id": "466a2d50-7067-462c-987d-dd40a1ca7ea9"
+    },
+    {
+      "group": "group3",
+      "topic_order": [
+        "20",
+        "9",
+        "30",
+        "49",
+        "25",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-20T15:04:18.485Z",
+      "id": "e266ad0b-0174-43db-8061-cfc6247d4188"
+    },
+    {
+      "group": "baseline",
+      "topic_order": [
+        "25",
+        "30",
+        "47",
+        "20",
+        "49",
+        "9"
+      ],
+      "creation_timestamp": "2021-03-20T16:10:50.724Z",
+      "id": "b674d338-b4e4-4c90-a539-afdc06b226fa"
+    },
+    {
+      "group": "baseline",
+      "topic_order": [
+        "49",
+        "9",
+        "25",
+        "20",
+        "30",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-20T19:36:07.068Z",
+      "id": "5256a5fd-1c6e-4d4f-aed8-1eb6cbea485c"
+    },
+    {
+      "group": "baseline",
+      "topic_order": [
+        "20",
+        "49",
+        "25",
+        "47",
+        "9",
+        "30"
+      ],
+      "creation_timestamp": "2021-03-20T19:49:36.683Z",
+      "id": "ca2f266c-7cec-4417-8113-d8936e647509"
+    },
+    {
+      "group": "group2",
+      "topic_order": [
+        "20",
+        "30",
+        "25",
+        "47",
+        "9",
+        "49"
+      ],
+      "creation_timestamp": "2021-03-21T06:30:30.678Z",
+      "id": "0b780b36-fece-4acd-a0f9-26af78b80459"
+    },
+    {
+      "group": "baseline",
+      "topic_order": [
+        "30",
+        "20",
+        "25",
+        "9",
+        "49",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-21T13:30:42.156Z",
+      "id": "b8382f55-9c89-4c7f-8116-6559d0253bc3"
+    },
+    {
+      "group": "group4",
+      "topic_order": [
+        "25",
+        "9",
+        "20",
+        "47",
+        "49",
+        "30"
+      ],
+      "creation_timestamp": "2021-03-21T14:20:06.858Z",
+      "id": "df014d46-3ed8-47a3-b430-7a0e8cb870dd"
+    },
+    {
+      "group": "group4",
+      "topic_order": [
+        "9",
+        "20",
+        "30",
+        "25",
+        "49",
+        "47"
+      ],
+      "creation_timestamp": "2021-03-21T15:36:51.089Z",
+      "id": "03c891c4-3206-4eb2-a821-175b0bd59b1a"
     }
   ],
   "pretask_questionnaire": [
@@ -1509,6 +1925,344 @@
       "creation_timestamp": "2021-03-19T13:19:20.270Z",
       "user_id": "0495c312-37a4-484f-8be4-0b7ea4418947",
       "id": "df13ec3d-521e-4c17-a0c5-ca7b47333a00"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "3",
+        "COVID-19NewsCheckUP": "Less than once a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "-2",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:27:15.054Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "0ddd833d-aa10-4528-9b2b-c5b303818109"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I use multilpe sources to verify the answer",
+        "onlineContentcorrectness": "2",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:29:01.776Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "aa02f723-552f-4c5d-bdc6-d152ef1574a9"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "3",
+        "COVID-19NewsCheckUP": "Four to six times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "2",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:30:40.781Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "60c2d4f4-a472-45d7-8c62-e8ed7a7705ec"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Less than once a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "0",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:44:19.370Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "19334c77-d490-4c24-a9d8-048b2300a3df"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Multiple times a day",
+        "satisfiedWithResults": "I submit different queries about what I want to know",
+        "onlineContentcorrectness": "2",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:53:17.515Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "61b744d5-9fb2-492c-abaa-5309df6192c8"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "0",
+        "COVID-19NewsCheckUP": "Less than once a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:00:39.223Z",
+      "user_id": "66cd26ca-4edf-4a42-a928-a6232b13554a",
+      "id": "a9cb2380-cffc-4dd7-8df8-6590b17fe64f"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Four to six times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "0",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:02:22.575Z",
+      "user_id": "864072f4-835c-4d12-826d-caf580c6cc8d",
+      "id": "9eb6e398-7f1a-4e11-b2ab-22d20a500e16"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "1",
+        "COVID-19NewsCheckUP": "Every day",
+        "satisfiedWithResults": "I'm usually satisfied with the first result",
+        "onlineContentcorrectness": "-2",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:08:30.322Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "574f7bfc-b9a8-4966-b733-88c8708f02f6"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "1",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "-1",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:20:55.260Z",
+      "user_id": "bb7c124c-291c-49ca-8b87-757db6c01113",
+      "id": "470a3baf-4a84-4dfa-ae0a-b378edeb08c3"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "1",
+        "COVID-19NewsCheckUP": "Less than once a week",
+        "satisfiedWithResults": "I'm usually satisfied with the first result",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:29:10.584Z",
+      "user_id": "68025f71-8c90-42fc-9884-8378591d8a33",
+      "id": "6383edd6-a608-4046-bcdb-65e6abb64062"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Four to six times a week",
+        "satisfiedWithResults": "I submit different queries about what I want to know",
+        "onlineContentcorrectness": "2",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:34:19.064Z",
+      "user_id": "cd1b9903-3540-491f-b76e-9c320da45999",
+      "id": "fc607a37-5a33-41fc-8ca4-ab6e912c66be"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Less than once a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T17:06:17.401Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "2f3773e9-08c7-4a2d-8e20-d3c86ce0c81f"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "0",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "0",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T18:13:42.081Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "26a8966b-7a23-4026-bc48-ad0d60c31a97"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Every day",
+        "satisfiedWithResults": "I submit different queries about what I want to know",
+        "onlineContentcorrectness": "3",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T19:25:36.268Z",
+      "user_id": "bf0480e0-3008-49eb-b7d7-18ad76a38b50",
+      "id": "8b023784-7e73-462f-af45-7baa403407b1"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Four to six times a week",
+        "satisfiedWithResults": "I submit different queries about what I want to know",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:41:28.958Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "5e73a56c-4fa3-44db-871c-c659b07c6bea"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "0",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:50:28.344Z",
+      "user_id": "e4ab0669-04bd-4192-a556-e34e5b83c843",
+      "id": "f6f9cd2d-35f8-4ce6-b4b2-965e4ebed2b2"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Four to six times a week",
+        "satisfiedWithResults": "I submit different queries about what I want to know",
+        "onlineContentcorrectness": "2",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T11:05:00.521Z",
+      "user_id": "631b929f-314c-4b65-b191-f62145a46580",
+      "id": "0c214035-0afa-4c67-b569-330ffb2dddec"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "1",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I use multilpe sources to verify the answer",
+        "onlineContentcorrectness": "-1",
+        "experienceWithFakenewsWarning": "No"
+      },
+      "creation_timestamp": "2021-03-20T13:28:09.071Z",
+      "user_id": "318fe1e9-cfc2-4000-b93a-02bc4d9399db",
+      "id": "50941a9f-175c-401f-af8b-1f294df4ef64"
+    },
+    {
+      "data": {
+        "languageLevel": "Basic knowledge",
+        "mediaLiteracy": "-3",
+        "COVID-19NewsCheckUP": "Less than once a week",
+        "satisfiedWithResults": "I'm usually satisfied with the first result",
+        "onlineContentcorrectness": "-3",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T14:20:39.448Z",
+      "user_id": "a358fefb-40ff-4181-b9cf-7ce19ea03aec",
+      "id": "656d58f6-3cf6-4f04-b6ba-c417493964e7"
+    },
+    {
+      "data": {
+        "languageLevel": "Basic knowledge",
+        "mediaLiteracy": "-3",
+        "COVID-19NewsCheckUP": "Multiple times a day",
+        "satisfiedWithResults": "I ready up exetinsively on th topic",
+        "onlineContentcorrectness": "-3",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T14:21:37.083Z",
+      "user_id": "ae061943-93de-4186-af2f-8b0c25c48bb7",
+      "id": "1776a7b5-976e-402c-bd7a-f5d098717221"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I use multilpe sources to verify the answer",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T14:28:29.405Z",
+      "user_id": "6bd8fd0b-a70c-4749-86b4-d3e0bc9fd047",
+      "id": "833e1da2-4d9e-437b-ba21-e44316360553"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T15:05:26.762Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "d34cff8f-89b5-4562-8126-4ac64034f368"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "2",
+        "COVID-19NewsCheckUP": "Every day",
+        "satisfiedWithResults": "I use multilpe sources to verify the answer",
+        "onlineContentcorrectness": "1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T19:50:24.810Z",
+      "user_id": "ca2f266c-7cec-4417-8113-d8936e647509",
+      "id": "1017a7ab-9b6c-4c5b-8f1f-290216336f30"
+    },
+    {
+      "data": {
+        "languageLevel": "Extensive conversation ready",
+        "mediaLiteracy": "1",
+        "COVID-19NewsCheckUP": "Four to six times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "0",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T06:32:52.332Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "43df9880-570b-45ed-a46a-77054692c8f9"
+    },
+    {
+      "data": {
+        "languageLevel": "Fluent",
+        "mediaLiteracy": "-3",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I use multilpe sources to verify the answer",
+        "onlineContentcorrectness": "-1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T13:33:16.404Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "6a8c5255-f2ee-4695-8604-70aa6d8bfe97"
+    },
+    {
+      "data": {
+        "languageLevel": "Well founded",
+        "mediaLiteracy": "1",
+        "COVID-19NewsCheckUP": "One to three times a week",
+        "satisfiedWithResults": "I usually find what I am looking for whithin the first result page",
+        "onlineContentcorrectness": "-1",
+        "experienceWithFakenewsWarning": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T15:37:50.580Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "df85f67f-5371-499d-be2c-d4eb83f131d4"
     }
   ],
   "ati_questionnaire": [],
@@ -2968,6 +3722,699 @@
       "creation_timestamp": "2021-03-19T13:21:34.102Z",
       "user_id": "a670c337-c49a-493e-8070-aec391990651",
       "id": "96e62ca3-6900-46e1-89b3-67e48c465f21"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T13:23:03.572Z",
+      "user_id": "a670c337-c49a-493e-8070-aec391990651",
+      "id": "7910c30c-6df7-4603-9069-a0587f935dc7"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:24:43.130Z",
+      "user_id": "a670c337-c49a-493e-8070-aec391990651",
+      "id": "692daa85-bc34-49c6-945e-7287092278e1"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T13:24:44.321Z",
+      "user_id": "0495c312-37a4-484f-8be4-0b7ea4418947",
+      "id": "b3fada30-d1b2-4264-8531-206c8cec512a"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T13:26:06.448Z",
+      "user_id": "a670c337-c49a-493e-8070-aec391990651",
+      "id": "d9eb355a-84b8-4e97-a264-72a585ef2cd3"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:28:22.727Z",
+      "user_id": "0495c312-37a4-484f-8be4-0b7ea4418947",
+      "id": "90860005-2b5e-41db-b7d8-89512f2029f3"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T13:28:32.308Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "e26678c3-035b-4a7d-a0cc-5446ddcbb19f"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:29:17.123Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "e4a36163-4755-499c-a853-e426b4430604"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T13:29:37.173Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "a6c59bb8-c23f-4116-a203-ded0d150713c"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T13:29:55.939Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "a7316616-038c-4625-85da-d579d2dcdf40"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T13:30:13.940Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "57ac5a09-2e9f-496e-a018-4812db39c902"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T13:30:32.215Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "d6ae679f-014f-4a71-bc90-d197969906b3"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:32:46.183Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "514e9de4-fe23-404b-9755-cd3c8b4b5dc8"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T13:36:01.030Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "544fb29e-bce7-42bf-bef5-89245b3c20fe"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T13:36:56.016Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "72eafc62-e7d3-4f56-9eeb-c010dd283398"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T13:39:42.839Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "75617522-5832-4bee-bb60-129d88d8c6ae"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:39:44.127Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "cbe5043c-9f92-4421-be9d-d6395b21eb0b"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T13:40:11.754Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "61dab703-070a-43da-9a09-d52c2d00e3f5"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T13:41:41.827Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "4a43ad02-1f8a-4413-8990-d9ca3f639dad"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T13:41:56.840Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "529afe67-a29f-4b61-b345-f960e9d3b96c"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T13:44:31.492Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "304e0d5f-6c55-4a43-9b68-3e8c044e32f5"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T13:45:40.307Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "98c29f7a-debe-4d34-b87f-96ac143d7041"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T13:46:16.739Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "1b021007-05a4-4ea2-b37a-9e83d3b99fb7"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T13:48:13.403Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "8dc79470-2b65-4ecb-8281-b7ec4481d40b"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:48:33.083Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "589cc9e3-69f5-466e-aac0-2efdc571de1c"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T13:49:48.642Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "38044c86-3fd7-4111-85d8-52ae3907073d"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T13:49:51.457Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "10ae372a-2c0d-4c24-b7ba-f89f34a02fc1"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T13:50:50.104Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "efc5f2ee-885c-488c-ad3a-90faf7e40e7d"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T13:52:52.728Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "b9df6f8e-675b-4340-b0e8-6b18e4f5f328"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T13:53:40.820Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "6acab4e4-2022-44bd-b8a8-6f1c746586de"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T13:54:22.845Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "f3f91a67-11ba-4147-af5f-f60fc3f1f3d4"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T13:55:59.645Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "d0e82a48-0c5b-4a8f-ab19-f55e76630cde"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T13:56:48.040Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "98b1d106-117f-4df9-8865-a7f8a2ba5fb4"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T13:57:40.425Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "25c3cd12-7e7c-4135-8def-a393826bbf20"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T13:58:33.001Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "e6aa7a73-e427-41f8-9aac-3819c8822621"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T13:59:24.596Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "fb906ce7-d7a1-498c-9217-b9fde8e1192f"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T14:01:33.182Z",
+      "user_id": "66cd26ca-4edf-4a42-a928-a6232b13554a",
+      "id": "346c0b29-19e7-4ef6-9aaf-93e5224e1e47"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T14:02:48.484Z",
+      "user_id": "864072f4-835c-4d12-826d-caf580c6cc8d",
+      "id": "ccbf6ae8-ee97-4a33-88fc-166476fb6216"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T14:14:54.195Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "00193513-5e22-4394-b461-553ea902a673"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T14:20:07.550Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "9e5db32d-6d5a-4b7b-8f30-4a3ed06edc90"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T14:21:53.964Z",
+      "user_id": "bb7c124c-291c-49ca-8b87-757db6c01113",
+      "id": "011b6954-abba-4277-b851-9ec074d76511"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T14:22:36.193Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "dbf46037-2fe1-4548-9d68-8db448aaedb8"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T14:24:33.312Z",
+      "user_id": "bb7c124c-291c-49ca-8b87-757db6c01113",
+      "id": "27414d06-d010-42ea-9bdd-b1dcda9d2629"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T14:24:37.038Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "f5395bad-ad30-4731-8910-bf1220dc705f"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T14:27:02.119Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "62b28cf5-ef72-4e46-b3ab-bffd5bf86db9"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T14:41:00.792Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "84c6379c-8939-439f-9943-22c6835d3a6f"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T17:08:25.571Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "411701e0-3e5a-4775-86cc-12b692d1e751"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T17:11:44.624Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "c6eff5b2-36fb-47b0-a7b4-73ee1c4ad375"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T17:13:04.200Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "9dbefd12-efbf-416a-8f17-cee5fc1c63a4"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T17:14:31.783Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "37c959f2-2c47-4834-bb43-a9f462bdaba5"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T17:15:38.691Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "9f864a91-c205-4bde-8b0c-cc984f68aae2"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T17:16:53.678Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "08bf28b9-892b-4951-986a-5e94be6c3aa7"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "20",
+      "creation_timestamp": "2021-03-19T18:14:48.233Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "b941b58c-dd4c-4a56-ab4b-77b23dcf016b"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "49",
+      "creation_timestamp": "2021-03-19T18:15:37.515Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "16be49bb-d638-406c-84c4-d7504294739d"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "30",
+      "creation_timestamp": "2021-03-19T18:16:31.225Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "87b784a1-a8d8-4f12-9723-e14a54499764"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "47",
+      "creation_timestamp": "2021-03-19T18:18:22.451Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "66b0f2ac-8b8d-4d78-80ea-1fa50b6866bd"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "25",
+      "creation_timestamp": "2021-03-19T18:19:09.625Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "64a653c1-2162-4bef-9245-f65a3621ccd1"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "9",
+      "creation_timestamp": "2021-03-19T18:19:39.520Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "90461db3-ceaf-40bd-9bf6-b54463b3e076"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "30",
+      "creation_timestamp": "2021-03-20T10:43:29.492Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "162a213b-4263-45a2-9a41-c5dfe95b9a43"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "20",
+      "creation_timestamp": "2021-03-20T10:47:38.584Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "f8a04a95-d945-4c2d-abd9-b9b046349825"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "47",
+      "creation_timestamp": "2021-03-20T10:50:17.867Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "63e8bd28-65ea-46fb-bb00-fea4bffea391"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "49",
+      "creation_timestamp": "2021-03-20T10:52:26.548Z",
+      "user_id": "e4ab0669-04bd-4192-a556-e34e5b83c843",
+      "id": "b47a15b2-395f-47a8-b589-b578a422a8b6"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "25",
+      "creation_timestamp": "2021-03-20T10:52:29.449Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "b8f38055-4be7-4759-9b30-610bcd6e5fb2"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "9",
+      "creation_timestamp": "2021-03-20T10:54:40.339Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "9b56264a-beda-419c-a4bc-4711cde88e0b"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "49",
+      "creation_timestamp": "2021-03-20T10:56:31.147Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "eefd0775-1746-4b37-99e0-827994fc96f6"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "25",
+      "creation_timestamp": "2021-03-20T11:05:05.704Z",
+      "user_id": "631b929f-314c-4b65-b191-f62145a46580",
+      "id": "d51db501-3c04-4303-8475-08a599f8260e"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "47",
+      "creation_timestamp": "2021-03-20T13:29:16.695Z",
+      "user_id": "318fe1e9-cfc2-4000-b93a-02bc4d9399db",
+      "id": "1ae4a095-74ee-4b96-8221-4af75a24e3ed"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "9",
+      "creation_timestamp": "2021-03-20T14:17:17.269Z",
+      "user_id": "cd1b9903-3540-491f-b76e-9c320da45999",
+      "id": "552e692e-cc80-4068-8fdd-e32e437fc32d"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "25",
+      "creation_timestamp": "2021-03-20T14:30:35.512Z",
+      "user_id": "466a2d50-7067-462c-987d-dd40a1ca7ea9",
+      "id": "cf5fa606-80a1-473c-904a-6a27c4752cfb"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "49",
+      "creation_timestamp": "2021-03-20T14:31:01.001Z",
+      "user_id": "466a2d50-7067-462c-987d-dd40a1ca7ea9",
+      "id": "cf6a123c-3326-4ae3-812e-7f961c7f62aa"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "30",
+      "creation_timestamp": "2021-03-20T14:31:09.729Z",
+      "user_id": "466a2d50-7067-462c-987d-dd40a1ca7ea9",
+      "id": "5ac0ff1d-7bb5-4400-b5d4-3897fc39cbdd"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "20",
+      "creation_timestamp": "2021-03-20T14:31:18.948Z",
+      "user_id": "466a2d50-7067-462c-987d-dd40a1ca7ea9",
+      "id": "a84d2c47-8f49-41d3-bb3a-0047d82e62c7"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "47",
+      "creation_timestamp": "2021-03-20T14:31:27.784Z",
+      "user_id": "466a2d50-7067-462c-987d-dd40a1ca7ea9",
+      "id": "a313a8c9-7527-425d-b8a5-d0b92ab16708"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "9",
+      "creation_timestamp": "2021-03-20T14:31:38.330Z",
+      "user_id": "466a2d50-7067-462c-987d-dd40a1ca7ea9",
+      "id": "24b68448-fb36-47a7-8342-685b7fc6e882"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "20",
+      "creation_timestamp": "2021-03-20T15:07:35.630Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "63ec2862-efe3-4d71-8d1d-0f0d650e24c0"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "9",
+      "creation_timestamp": "2021-03-20T15:09:46.781Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "2272fd06-e38f-49ee-a2d3-fe3bb3ac60bc"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "30",
+      "creation_timestamp": "2021-03-20T15:12:37.289Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "ec940648-b8cb-4401-b481-13d3528a589b"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "49",
+      "creation_timestamp": "2021-03-20T15:15:14.913Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "c7668e20-0c7d-4f77-86cd-f4b354c01144"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "25",
+      "creation_timestamp": "2021-03-20T15:16:43.418Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "16702b27-57ca-4534-b5c3-64492d988f6c"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "47",
+      "creation_timestamp": "2021-03-20T15:18:03.466Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "37889fbb-4dc7-4019-8038-c1907e8f4e3b"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "20",
+      "creation_timestamp": "2021-03-20T19:50:48.020Z",
+      "user_id": "ca2f266c-7cec-4417-8113-d8936e647509",
+      "id": "8a94156e-ae6e-4ce5-9280-84d831cd0544"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "49",
+      "creation_timestamp": "2021-03-20T19:52:21.410Z",
+      "user_id": "ca2f266c-7cec-4417-8113-d8936e647509",
+      "id": "f94a265f-61ae-4700-bd7b-ae52e95a8bb3"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "20",
+      "creation_timestamp": "2021-03-21T06:38:03.909Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "2603fcaf-77fc-410c-b1a4-25d635032e3e"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "30",
+      "creation_timestamp": "2021-03-21T06:44:49.717Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "cbad0ea8-4300-45be-a861-2ef80903fbfd"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "25",
+      "creation_timestamp": "2021-03-21T06:49:10.456Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "b207eab9-7586-4e31-ba0c-c9e6b5db33d8"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "47",
+      "creation_timestamp": "2021-03-21T06:53:13.097Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "2f96bbae-7ce0-47b7-98ea-7f6f42e65e0d"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "9",
+      "creation_timestamp": "2021-03-21T06:56:26.018Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "603252bd-af03-4435-8b70-6df0352989ca"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "49",
+      "creation_timestamp": "2021-03-21T07:01:40.475Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "6b7adbeb-f5a2-47f2-b6fc-ef412b7b974a"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "30",
+      "creation_timestamp": "2021-03-21T13:35:26.745Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "9b4baa76-61cb-4a95-9311-5500659122e5"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "20",
+      "creation_timestamp": "2021-03-21T13:38:43.332Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "ffa5afa3-4d9b-4514-a3ae-dc20264171cb"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "25",
+      "creation_timestamp": "2021-03-21T13:41:12.307Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "1e2556a0-ab27-482a-8505-a65b61eb5382"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "9",
+      "creation_timestamp": "2021-03-21T13:43:37.814Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "b45d43ea-35b7-452b-bd2d-2b54c751d0de"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "49",
+      "creation_timestamp": "2021-03-21T13:46:29.967Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "65df60f3-bbb1-4079-a46c-81decada7fb4"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "47",
+      "creation_timestamp": "2021-03-21T13:48:16.638Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "d1ea989d-2fce-4afc-89a6-01a2c8342c1b"
+    },
+    {
+      "user_judgement_iteration": 1,
+      "topic": "9",
+      "creation_timestamp": "2021-03-21T15:38:37.195Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "8e86fcab-ffd4-4df5-9e45-1e9417cd0e1c"
+    },
+    {
+      "user_judgement_iteration": 2,
+      "topic": "20",
+      "creation_timestamp": "2021-03-21T15:42:05.889Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "1940c103-6cd0-4166-8869-a92fbf0210b7"
+    },
+    {
+      "user_judgement_iteration": 3,
+      "topic": "30",
+      "creation_timestamp": "2021-03-21T15:43:09.286Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "57ca3471-8db9-4434-a466-d0582075995a"
+    },
+    {
+      "user_judgement_iteration": 4,
+      "topic": "25",
+      "creation_timestamp": "2021-03-21T15:43:40.083Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "a26382bc-9435-431b-b45e-19ea93655958"
+    },
+    {
+      "user_judgement_iteration": 5,
+      "topic": "49",
+      "creation_timestamp": "2021-03-21T15:44:22.532Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "edde1a3f-7f0e-455c-ac73-16b543a573be"
+    },
+    {
+      "user_judgement_iteration": 6,
+      "topic": "47",
+      "creation_timestamp": "2021-03-21T15:45:35.976Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "08c3fda3-fed9-4ee3-a332-942c856887e2"
     }
   ],
   "judgement_result": [
@@ -5850,6 +7297,1401 @@
       },
       "creation_timestamp": "2021-03-19T13:21:33.855Z",
       "id": "aee912c1-bc0c-46c3-a2cc-d9b2859dc6e8"
+    },
+    {
+      "judgement_data_id": "96e62ca3-6900-46e1-89b3-67e48c465f21",
+      "data": {
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "No",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:23:03.007Z",
+      "id": "caf48431-5a1e-4185-81ba-397fe7a80879"
+    },
+    {
+      "judgement_data_id": "7910c30c-6df7-4603-9069-a0587f935dc7",
+      "data": {
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Yes",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Yes",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Yes",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:24:42.863Z",
+      "id": "da13f4ea-ea2a-464c-b72f-5fa5f521124d"
+    },
+    {
+      "judgement_data_id": "de49af1d-a994-4a21-8a3e-6293f65658bb",
+      "data": {
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Unsure",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Yes",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Unsure",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "Unsure",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:24:43.981Z",
+      "id": "00d2fa2d-094c-4424-b641-2445d3c2c325"
+    },
+    {
+      "judgement_data_id": "692daa85-bc34-49c6-945e-7287092278e1",
+      "data": {
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:26:06.100Z",
+      "id": "75246fdd-9007-43ab-af3f-43ab805e8bc1"
+    },
+    {
+      "judgement_data_id": "d9eb355a-84b8-4e97-a264-72a585ef2cd3",
+      "data": {
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:27:37.233Z",
+      "id": "d6164562-74ed-499c-8d6f-87d7f78c6283"
+    },
+    {
+      "judgement_data_id": "b3fada30-d1b2-4264-8531-206c8cec512a",
+      "data": {
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "No",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "No",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:28:22.273Z",
+      "id": "95511ed8-0077-48cc-a3c5-0b8568bd2f21"
+    },
+    {
+      "judgement_data_id": "e26678c3-035b-4a7d-a0cc-5446ddcbb19f",
+      "data": {
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Unsure",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Unsure",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Unsure",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Unsure",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Unsure",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Unsure",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Unsure",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:29:16.813Z",
+      "id": "3678688a-ddfa-417f-b40c-af308c562d11"
+    },
+    {
+      "judgement_data_id": "e4a36163-4755-499c-a853-e426b4430604",
+      "data": {
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Unsure",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "Unsure",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "Unsure",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Unsure",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Unsure",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Unsure",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Unsure",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:29:36.841Z",
+      "id": "8667a51d-2658-4956-a2a7-4b4d8df08fea"
+    },
+    {
+      "judgement_data_id": "a6c59bb8-c23f-4116-a203-ded0d150713c",
+      "data": {
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Unsure",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Unsure",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Unsure",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Unsure",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "Unsure",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Unsure",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Unsure",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:29:55.645Z",
+      "id": "0ad7bf05-98c6-4fdd-8fc8-09d650485f44"
+    },
+    {
+      "judgement_data_id": "a7316616-038c-4625-85da-d579d2dcdf40",
+      "data": {
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Unsure",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Unsure",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Unsure",
+        "2b771286-15ce-48e9-875d-a43907557f24": "Unsure",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Unsure",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Unsure",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Unsure",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:30:13.538Z",
+      "id": "6d15d1c3-e05a-4929-b2af-d96787eeb36c"
+    },
+    {
+      "judgement_data_id": "57ac5a09-2e9f-496e-a018-4812db39c902",
+      "data": {
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "Unsure",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Unsure",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Unsure",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Unsure",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Unsure",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Unsure",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Unsure",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:30:31.901Z",
+      "id": "e32c6bb3-271b-4b45-9789-62ffaecb72bb"
+    },
+    {
+      "judgement_data_id": "d6ae679f-014f-4a71-bc90-d197969906b3",
+      "data": {
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Unsure",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Unsure",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Unsure",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Unsure",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "Unsure",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Unsure",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:30:52.526Z",
+      "id": "33367929-2f98-413e-b7f0-0c70e4009ca7"
+    },
+    {
+      "judgement_data_id": "514e9de4-fe23-404b-9755-cd3c8b4b5dc8",
+      "data": {
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Unsure",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Unsure",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "Unsure",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:36:55.510Z",
+      "id": "f5a6c2fc-b838-4ff8-84d7-00bd6e0cff8a"
+    },
+    {
+      "judgement_data_id": "72eafc62-e7d3-4f56-9eeb-c010dd283398",
+      "data": {
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Yes",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Yes",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:39:41.257Z",
+      "id": "b507bfd3-ec3d-4e7a-9e05-bd7bf1e7c5dd"
+    },
+    {
+      "judgement_data_id": "544fb29e-bce7-42bf-bef5-89245b3c20fe",
+      "data": {
+        "2b771286-15ce-48e9-875d-a43907557f24": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "No",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "No",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Yes",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "No",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Unsure",
+        "fe95c08a-a416-44e9-b564-612daff46542": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:39:43.717Z",
+      "id": "54d353b9-be71-408a-b638-b5bae55557d4"
+    },
+    {
+      "judgement_data_id": "75617522-5832-4bee-bb60-129d88d8c6ae",
+      "data": {
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Unsure",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "Unsure",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Unsure",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Unsure",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "Unsure",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Unsure",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Unsure",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:40:11.324Z",
+      "id": "bdcf20f9-7232-47a8-8b49-99c4dc0a0180"
+    },
+    {
+      "judgement_data_id": "61dab703-070a-43da-9a09-d52c2d00e3f5",
+      "data": {
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Unsure",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Unsure",
+        "2b771286-15ce-48e9-875d-a43907557f24": "Yes",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Unsure",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Unsure",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:41:41.207Z",
+      "id": "2a145279-0cfc-4992-a2ff-777ea19c8199"
+    },
+    {
+      "judgement_data_id": "4a43ad02-1f8a-4413-8990-d9ca3f639dad",
+      "data": {
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Unsure",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Unsure",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Unsure",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Unsure",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "Unsure",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Unsure",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Unsure",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:41:56.403Z",
+      "id": "2ce23e9f-02d2-4d9f-9ab2-cad6c1e7b6a8"
+    },
+    {
+      "judgement_data_id": "529afe67-a29f-4b61-b345-f960e9d3b96c",
+      "data": {
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Unsure",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Unsure",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Unsure",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Unsure",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Unsure",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Unsure",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Unsure",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:42:08.496Z",
+      "id": "bc8b19a4-7d45-4bcb-a3a4-67584b08737e"
+    },
+    {
+      "judgement_data_id": "cbe5043c-9f92-4421-be9d-d6395b21eb0b",
+      "data": {
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Yes",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "Yes",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Unsure",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:44:31.173Z",
+      "id": "e2d6b39d-61a8-4f05-9ae4-4523acbda86e"
+    },
+    {
+      "judgement_data_id": "304e0d5f-6c55-4a43-9b68-3e8c044e32f5",
+      "data": {
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:46:16.429Z",
+      "id": "7f648472-93fb-4fab-900b-21e9f85c4d17"
+    },
+    {
+      "judgement_data_id": "1b021007-05a4-4ea2-b37a-9e83d3b99fb7",
+      "data": {
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "No",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "No",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "No",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "No",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:48:13.142Z",
+      "id": "f3ace37f-d8cc-4bfa-961d-dc9c9876a0c6"
+    },
+    {
+      "judgement_data_id": "98c29f7a-debe-4d34-b87f-96ac143d7041",
+      "data": {
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Unsure",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "No",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Unsure",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Unsure",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Unsure",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Unsure",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:48:32.825Z",
+      "id": "9f4c56ef-89f1-4909-a814-122f984e526a"
+    },
+    {
+      "judgement_data_id": "8dc79470-2b65-4ecb-8281-b7ec4481d40b",
+      "data": {
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "No",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "No",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Unsure",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:49:48.310Z",
+      "id": "cce2d942-fa3f-417d-8868-432bcde291df"
+    },
+    {
+      "judgement_data_id": "589cc9e3-69f5-466e-aac0-2efdc571de1c",
+      "data": {
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Unsure",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Unsure",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:49:51.206Z",
+      "id": "aabc75da-d1e7-4c2e-8b6e-75308584dfe3"
+    },
+    {
+      "judgement_data_id": "38044c86-3fd7-4111-85d8-52ae3907073d",
+      "data": {
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "cabe8e93-81be-4d48-8333-266f731af782": "No",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Yes",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "No",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:50:47.523Z",
+      "id": "5801c89e-840f-4981-a87a-27de82ae3ebf"
+    },
+    {
+      "judgement_data_id": "10ae372a-2c0d-4c24-b7ba-f89f34a02fc1",
+      "data": {
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Unsure",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:50:49.816Z",
+      "id": "1e021595-1f7d-42f0-8fce-3e7f39abf851"
+    },
+    {
+      "judgement_data_id": "efc5f2ee-885c-488c-ad3a-90faf7e40e7d",
+      "data": {
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Unsure",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "No",
+        "fe95c08a-a416-44e9-b564-612daff46542": "No",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "No",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Unsure",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:52:52.484Z",
+      "id": "8ed9fdd4-361a-4b0d-a363-5ce106f77253"
+    },
+    {
+      "judgement_data_id": "b9df6f8e-675b-4340-b0e8-6b18e4f5f328",
+      "data": {
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "No",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Unsure",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Yes",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:53:40.490Z",
+      "id": "c6be659f-4666-4f75-84ab-ff86a4cf5be8"
+    },
+    {
+      "judgement_data_id": "6acab4e4-2022-44bd-b8a8-6f1c746586de",
+      "data": {
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Unsure",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Unsure",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Unsure",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Unsure",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Unsure",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:54:30.792Z",
+      "id": "7c5d291c-abeb-4914-b3e0-e5e994b2c1b0"
+    },
+    {
+      "judgement_data_id": "f3f91a67-11ba-4147-af5f-f60fc3f1f3d4",
+      "data": {
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "2072a147-e6a8-4e5c-b707-01ee80ca9fbf": "No",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Unsure",
+        "009f1632-8662-45ef-974e-89ca39c1ccc9": "Yes",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:55:59.340Z",
+      "id": "e80a3a34-4c3f-4a06-a645-7d2039128cab"
+    },
+    {
+      "judgement_data_id": "d0e82a48-0c5b-4a8f-ab19-f55e76630cde",
+      "data": {
+        "fe95c08a-a416-44e9-b564-612daff46542": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes",
+        "088ace92-123f-4936-a30d-78682e0cc66f": "Unsure",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Unsure",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Unsure",
+        "017aef20-a955-43fd-8493-e9040a4bf863": "Unsure",
+        "2b771286-15ce-48e9-875d-a43907557f24": "Unsure",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:56:47.754Z",
+      "id": "b1a63531-5e15-484d-834a-a919922caa4c"
+    },
+    {
+      "judgement_data_id": "98b1d106-117f-4df9-8865-a7f8a2ba5fb4",
+      "data": {
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Unsure",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Yes",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Unsure",
+        "06413b57-7f8d-4278-a990-ff2ba9c78517": "Yes",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Unsure",
+        "13a1e9ae-5366-43aa-ae91-64a41d11e2b5": "Yes",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T13:57:40.076Z",
+      "id": "e48b246a-9207-4897-8259-ca41dda35b48"
+    },
+    {
+      "judgement_data_id": "25c3cd12-7e7c-4135-8def-a393826bbf20",
+      "data": {
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "Unsure",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Yes",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Unsure",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Unsure",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Yes",
+        "13cb7319-7457-40b1-9ac8-f794e8c9fe13": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T13:58:32.680Z",
+      "id": "6d9db28a-a4c2-4383-b0b6-8485bddb70f1"
+    },
+    {
+      "judgement_data_id": "e6aa7a73-e427-41f8-9aac-3819c8822621",
+      "data": {
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Unsure",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "16f93241-46fc-4260-be8a-cd0005717f82": "Yes",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Yes",
+        "fa5d6e46-eaef-4b9a-8fad-fff609b20009": "Yes",
+        "fa90baf4-a090-429c-a234-035d431a8486": "Unsure",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No"
+      },
+      "creation_timestamp": "2021-03-19T13:59:24.324Z",
+      "id": "1dd0ee48-8c51-4de3-9737-604cd5d16c70"
+    },
+    {
+      "judgement_data_id": "fb906ce7-d7a1-498c-9217-b9fde8e1192f",
+      "data": {
+        "4663ddb9-4abd-4886-aeed-e7e04e33ef1e": "Unsure",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Yes",
+        "ed7a35de-9a94-47eb-b43c-47d742a03386": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "No",
+        "cabe8e93-81be-4d48-8333-266f731af782": "No",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Unsure",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:03:17.729Z",
+      "id": "f9c97468-f5f9-49ae-8349-d8ba7c8089a0"
+    },
+    {
+      "judgement_data_id": "ccbf6ae8-ee97-4a33-88fc-166476fb6216",
+      "data": {
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Yes",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Yes",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "No",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "No",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T14:14:53.952Z",
+      "id": "3dee8307-2853-4d35-b2a9-d2ddd4773f04"
+    },
+    {
+      "judgement_data_id": "00193513-5e22-4394-b461-553ea902a673",
+      "data": {
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "No",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:20:07.336Z",
+      "id": "c39ac893-f735-49f6-89e1-89c0534c049d"
+    },
+    {
+      "judgement_data_id": "9e5db32d-6d5a-4b7b-8f30-4a3ed06edc90",
+      "data": {
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Yes",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Yes",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Yes",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T14:22:35.922Z",
+      "id": "bf4d6209-8a15-447b-99c8-34ee6bb5c5d5"
+    },
+    {
+      "judgement_data_id": "011b6954-abba-4277-b851-9ec074d76511",
+      "data": {
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Yes",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "Yes",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Yes",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "Unsure",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:24:32.850Z",
+      "id": "6c3e5f55-51ce-4af6-b748-2564d5c31a09"
+    },
+    {
+      "judgement_data_id": "dbf46037-2fe1-4548-9d68-8db448aaedb8",
+      "data": {
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Yes",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T14:24:36.806Z",
+      "id": "a4434e0e-1b9f-489b-b11e-9603227a605a"
+    },
+    {
+      "judgement_data_id": "f5395bad-ad30-4731-8910-bf1220dc705f",
+      "data": {
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "No",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "No",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "No",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "No",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:27:01.910Z",
+      "id": "f7c4a5b9-1890-46e4-919d-3b0e6537268d"
+    },
+    {
+      "judgement_data_id": "62b28cf5-ef72-4e46-b3ab-bffd5bf86db9",
+      "data": {
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Yes",
+        "fe95c08a-a416-44e9-b564-612daff46542": "No",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Yes",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "No",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "No",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T14:41:00.540Z",
+      "id": "64948707-1bec-4abb-9c76-90bea3aaf373"
+    },
+    {
+      "judgement_data_id": "84c6379c-8939-439f-9943-22c6835d3a6f",
+      "data": {
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T14:42:52.327Z",
+      "id": "2c5d6030-1948-4d74-ba61-5566457bb8a5"
+    },
+    {
+      "judgement_data_id": "411701e0-3e5a-4775-86cc-12b692d1e751",
+      "data": {
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "No",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Yes",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "No",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Yes",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "No",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No"
+      },
+      "creation_timestamp": "2021-03-19T17:11:44.418Z",
+      "id": "cc1507a7-a710-46ff-b2cd-6baf518c448e"
+    },
+    {
+      "judgement_data_id": "c6eff5b2-36fb-47b0-a7b4-73ee1c4ad375",
+      "data": {
+        "cabe8e93-81be-4d48-8333-266f731af782": "No",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "No",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "No",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Yes",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "No"
+      },
+      "creation_timestamp": "2021-03-19T17:13:03.992Z",
+      "id": "6ee1d6b4-6bb5-439a-ae57-4a1ce5b48d27"
+    },
+    {
+      "judgement_data_id": "9dbefd12-efbf-416a-8f17-cee5fc1c63a4",
+      "data": {
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "No",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Yes",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No"
+      },
+      "creation_timestamp": "2021-03-19T17:14:31.510Z",
+      "id": "23cf8488-d53a-4558-87d3-aeeec24d3a4b"
+    },
+    {
+      "judgement_data_id": "37c959f2-2c47-4834-bb43-a9f462bdaba5",
+      "data": {
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "No",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No"
+      },
+      "creation_timestamp": "2021-03-19T17:15:38.475Z",
+      "id": "b57ba292-6de9-4b4e-8c48-d43da903ba3b"
+    },
+    {
+      "judgement_data_id": "9f864a91-c205-4bde-8b0c-cc984f68aae2",
+      "data": {
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Yes",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Yes",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Yes",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T17:16:53.467Z",
+      "id": "aecf6ea5-8b43-4709-9d74-b658fb685013"
+    },
+    {
+      "judgement_data_id": "08bf28b9-892b-4951-986a-5e94be6c3aa7",
+      "data": {
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Yes",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T17:18:18.283Z",
+      "id": "9e46ccd1-23a7-42e1-b0da-95882affe38e"
+    },
+    {
+      "judgement_data_id": "b941b58c-dd4c-4a56-ab4b-77b23dcf016b",
+      "data": {
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "No",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Unsure",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "Unsure",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T18:15:36.673Z",
+      "id": "fbd61c34-3c5d-4eef-a8cb-ef2c07d0fd5c"
+    },
+    {
+      "judgement_data_id": "16be49bb-d638-406c-84c4-d7504294739d",
+      "data": {
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "Unsure",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "No",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Unsure",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T18:16:30.354Z",
+      "id": "ddf9b2c9-63ab-40f4-8478-88ac0aa741fb"
+    },
+    {
+      "judgement_data_id": "87b784a1-a8d8-4f12-9723-e14a54499764",
+      "data": {
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Unsure",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "No",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Unsure",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Unsure",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Unsure",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "Unsure"
+      },
+      "creation_timestamp": "2021-03-19T18:18:21.423Z",
+      "id": "503a40bf-7cec-451f-881e-d3dc30f74ac0"
+    },
+    {
+      "judgement_data_id": "66b0f2ac-8b8d-4d78-80ea-1fa50b6866bd",
+      "data": {
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Unsure",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "No",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "Unsure",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "Unsure",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Unsure",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No"
+      },
+      "creation_timestamp": "2021-03-19T18:19:08.645Z",
+      "id": "9c0afad4-350e-409d-b014-256367b23e7f"
+    },
+    {
+      "judgement_data_id": "64a653c1-2162-4bef-9245-f65a3621ccd1",
+      "data": {
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "fe95c08a-a416-44e9-b564-612daff46542": "No",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "No",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Unsure",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "No",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "No",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "No",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Yes"
+      },
+      "creation_timestamp": "2021-03-19T18:19:38.095Z",
+      "id": "1e2c4a0c-361c-4f48-a055-f4bc3413b370"
+    },
+    {
+      "judgement_data_id": "90461db3-ceaf-40bd-9bf6-b54463b3e076",
+      "data": {
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "No",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "No",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Unsure",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "No",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Unsure",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Unsure",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Unsure",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "No"
+      },
+      "creation_timestamp": "2021-03-19T18:20:46.155Z",
+      "id": "15faa6d6-8b2d-4b20-84d1-298af76b3166"
+    },
+    {
+      "judgement_data_id": "162a213b-4263-45a2-9a41-c5dfe95b9a43",
+      "data": {
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "No",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Yes",
+        "13cb7319-7457-40b1-9ac8-f794e8c9fe13": "Yes",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "No",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "Yes",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:47:36.900Z",
+      "id": "c6c78aae-0fd9-4dc3-87c8-a2f1e4500c33"
+    },
+    {
+      "judgement_data_id": "f8a04a95-d945-4c2d-abd9-b9b046349825",
+      "data": {
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "16f93241-46fc-4260-be8a-cd0005717f82": "Yes",
+        "fa5d6e46-eaef-4b9a-8fad-fff609b20009": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Yes",
+        "fa90baf4-a090-429c-a234-035d431a8486": "No",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:50:16.647Z",
+      "id": "f5dd9c5e-8c0c-4eb5-90b3-da55ce9fd280"
+    },
+    {
+      "judgement_data_id": "63e8bd28-65ea-46fb-bb00-fea4bffea391",
+      "data": {
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "009f1632-8662-45ef-974e-89ca39c1ccc9": "No",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Yes",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "No",
+        "2072a147-e6a8-4e5c-b707-01ee80ca9fbf": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Yes",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:52:28.565Z",
+      "id": "52322a77-621c-4623-bdc9-05fd41c1c8b6"
+    },
+    {
+      "judgement_data_id": "b8f38055-4be7-4759-9b30-610bcd6e5fb2",
+      "data": {
+        "fe95c08a-a416-44e9-b564-612daff46542": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "No",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Yes",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Yes",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Yes",
+        "088ace92-123f-4936-a30d-78682e0cc66f": "No",
+        "017aef20-a955-43fd-8493-e9040a4bf863": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:54:39.665Z",
+      "id": "8bd89f52-7d17-472d-9bf9-d22b2ac0fe93"
+    },
+    {
+      "judgement_data_id": "9b56264a-beda-419c-a4bc-4711cde88e0b",
+      "data": {
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "No",
+        "4663ddb9-4abd-4886-aeed-e7e04e33ef1e": "Yes",
+        "ed7a35de-9a94-47eb-b43c-47d742a03386": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Yes",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:56:30.736Z",
+      "id": "8664134d-4d17-4e0c-9aef-43cede471104"
+    },
+    {
+      "judgement_data_id": "eefd0775-1746-4b37-99e0-827994fc96f6",
+      "data": {
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "06413b57-7f8d-4278-a990-ff2ba9c78517": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Yes",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "13a1e9ae-5366-43aa-ae91-64a41d11e2b5": "Yes",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T10:58:14.039Z",
+      "id": "e7da3ae5-17fb-4467-b9e3-e79aeef666d4"
+    },
+    {
+      "judgement_data_id": "cf5fa606-80a1-473c-904a-6a27c4752cfb",
+      "data": {
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Unsure",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Unsure",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Unsure",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Unsure",
+        "2b771286-15ce-48e9-875d-a43907557f24": "Unsure",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Unsure",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Unsure",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T14:31:00.648Z",
+      "id": "f8d91bce-c1e7-47bc-a5e9-96b381127b0b"
+    },
+    {
+      "judgement_data_id": "cf6a123c-3326-4ae3-812e-7f961c7f62aa",
+      "data": {
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Unsure",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "Unsure",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Unsure",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Unsure",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Unsure",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Unsure",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Unsure",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T14:31:09.386Z",
+      "id": "c0e9cc9d-713d-4378-8b7f-a6a074b938c9"
+    },
+    {
+      "judgement_data_id": "5ac0ff1d-7bb5-4400-b5d4-3897fc39cbdd",
+      "data": {
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Unsure",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Unsure",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Unsure",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Unsure",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Unsure",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "Unsure",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Unsure",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T14:31:18.639Z",
+      "id": "5608db77-0583-4fde-8ce6-05048f54e59a"
+    },
+    {
+      "judgement_data_id": "a84d2c47-8f49-41d3-bb3a-0047d82e62c7",
+      "data": {
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Unsure",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Unsure",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "Unsure",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Unsure",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Unsure",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Unsure",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T14:31:27.467Z",
+      "id": "67b9949f-af2a-431c-aace-36a53d5e21b5"
+    },
+    {
+      "judgement_data_id": "a313a8c9-7527-425d-b8a5-d0b92ab16708",
+      "data": {
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Unsure",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Unsure",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "Unsure",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Unsure",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Unsure",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Unsure",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "Unsure",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T14:31:37.979Z",
+      "id": "6b8051ac-de87-4d71-ad7e-85c26c91c829"
+    },
+    {
+      "judgement_data_id": "24b68448-fb36-47a7-8342-685b7fc6e882",
+      "data": {
+        "cabe8e93-81be-4d48-8333-266f731af782": "Unsure",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Unsure",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Unsure",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Unsure",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Unsure",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Unsure",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Unsure",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T14:31:47.469Z",
+      "id": "4b4517fb-4e7b-4b4c-832d-61351d3d2c68"
+    },
+    {
+      "judgement_data_id": "63ec2862-efe3-4d71-8d1d-0f0d650e24c0",
+      "data": {
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Yes",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Unsure",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T15:09:46.228Z",
+      "id": "63251300-bdf4-46fe-a289-7996ed86b79c"
+    },
+    {
+      "judgement_data_id": "2272fd06-e38f-49ee-a2d3-fe3bb3ac60bc",
+      "data": {
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Yes",
+        "cabe8e93-81be-4d48-8333-266f731af782": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Unsure",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Yes",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "No",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "No",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T15:12:36.879Z",
+      "id": "e0a0d921-d75d-4a7e-a7d5-5ad85f2a5412"
+    },
+    {
+      "judgement_data_id": "ec940648-b8cb-4401-b481-13d3528a589b",
+      "data": {
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "No",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Yes",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "No",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No"
+      },
+      "creation_timestamp": "2021-03-20T15:15:14.349Z",
+      "id": "5198f2a8-4844-4e1c-b63a-13fc369bb15b"
+    },
+    {
+      "judgement_data_id": "c7668e20-0c7d-4f77-86cd-f4b354c01144",
+      "data": {
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Unsure",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Yes",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "No",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "No"
+      },
+      "creation_timestamp": "2021-03-20T15:16:42.787Z",
+      "id": "95ec62eb-fad9-4698-8ebe-cb7643d940d6"
+    },
+    {
+      "judgement_data_id": "16702b27-57ca-4534-b5c3-64492d988f6c",
+      "data": {
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Yes",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Yes",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Yes",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "No",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Yes",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T15:18:03.066Z",
+      "id": "f377bd85-7f5a-4f73-8d1c-68fb51f7253a"
+    },
+    {
+      "judgement_data_id": "37889fbb-4dc7-4019-8038-c1907e8f4e3b",
+      "data": {
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "No",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "Yes",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "Yes",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No"
+      },
+      "creation_timestamp": "2021-03-20T15:19:24.529Z",
+      "id": "8eae2dde-66b5-4f61-91ba-d2067046fe94"
+    },
+    {
+      "judgement_data_id": "8a94156e-ae6e-4ce5-9280-84d831cd0544",
+      "data": {
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Unsure",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Unsure",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Unsure"
+      },
+      "creation_timestamp": "2021-03-20T19:52:21.039Z",
+      "id": "90dec96e-f364-4a3a-aa89-4df7ab8828cb"
+    },
+    {
+      "judgement_data_id": "2603fcaf-77fc-410c-b1a4-25d635032e3e",
+      "data": {
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "No",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "Yes",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Yes",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Yes",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No"
+      },
+      "creation_timestamp": "2021-03-21T06:44:49.458Z",
+      "id": "57073741-f839-48ca-a96a-d1a75c19acf0"
+    },
+    {
+      "judgement_data_id": "cbad0ea8-4300-45be-a861-2ef80903fbfd",
+      "data": {
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "Yes",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Yes",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "Yes",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "No"
+      },
+      "creation_timestamp": "2021-03-21T06:49:10.163Z",
+      "id": "31a77816-f400-4a0f-b588-d0dfd7b0b827"
+    },
+    {
+      "judgement_data_id": "b207eab9-7586-4e31-ba0c-c9e6b5db33d8",
+      "data": {
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "No",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Yes",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Yes",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "No",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Yes",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No"
+      },
+      "creation_timestamp": "2021-03-21T06:53:12.819Z",
+      "id": "3b7295c1-5c56-4647-9756-d355da332b8f"
+    },
+    {
+      "judgement_data_id": "2f96bbae-7ce0-47b7-98ea-7f6f42e65e0d",
+      "data": {
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Yes",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T06:56:25.729Z",
+      "id": "97945bc0-7cfd-47c3-8819-5af0591ac21d"
+    },
+    {
+      "judgement_data_id": "603252bd-af03-4435-8b70-6df0352989ca",
+      "data": {
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Yes",
+        "cabe8e93-81be-4d48-8333-266f731af782": "No",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Yes",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "No",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "No"
+      },
+      "creation_timestamp": "2021-03-21T07:01:40.213Z",
+      "id": "84c9f693-ce23-458a-b13c-46da7093f347"
+    },
+    {
+      "judgement_data_id": "6b7adbeb-f5a2-47f2-b6fc-ef412b7b974a",
+      "data": {
+        "03209ccd-0a82-4822-af66-5894431ca33b": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Yes",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Yes",
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Yes",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No"
+      },
+      "creation_timestamp": "2021-03-21T07:04:54.733Z",
+      "id": "dbe8b855-c7f7-49e9-b5fd-47c8d7a816d8"
+    },
+    {
+      "judgement_data_id": "9b4baa76-61cb-4a95-9311-5500659122e5",
+      "data": {
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Yes",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "Yes",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "Yes",
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "No",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "No"
+      },
+      "creation_timestamp": "2021-03-21T13:38:43.138Z",
+      "id": "b9e58764-3cc2-41f1-80fd-8504892e855f"
+    },
+    {
+      "judgement_data_id": "ffa5afa3-4d9b-4514-a3ae-dc20264171cb",
+      "data": {
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "No",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "No",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "Yes",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T13:41:12.092Z",
+      "id": "e198af5a-0b1d-4e53-95c2-f5a1dc4507b2"
+    },
+    {
+      "judgement_data_id": "1e2556a0-ab27-482a-8505-a65b61eb5382",
+      "data": {
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Yes",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "No",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Unsure",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Yes",
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "No",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T13:43:37.589Z",
+      "id": "37b63df8-fa87-4eaa-a35b-8b18ae080f3f"
+    },
+    {
+      "judgement_data_id": "b45d43ea-35b7-452b-bd2d-2b54c751d0de",
+      "data": {
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Yes",
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "No",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "No",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Yes",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "Yes",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes",
+        "cabe8e93-81be-4d48-8333-266f731af782": "No"
+      },
+      "creation_timestamp": "2021-03-21T13:46:29.754Z",
+      "id": "cf778dc9-2804-4359-9f0e-a8aef7faf023"
+    },
+    {
+      "judgement_data_id": "65df60f3-bbb1-4079-a46c-81decada7fb4",
+      "data": {
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "No",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Yes",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "No",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "No",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Yes",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "Yes",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Yes",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No"
+      },
+      "creation_timestamp": "2021-03-21T13:48:16.455Z",
+      "id": "44203dbd-40f3-4f25-a2ba-cf17d904742d"
+    },
+    {
+      "judgement_data_id": "d1ea989d-2fce-4afc-89a6-01a2c8342c1b",
+      "data": {
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "No",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Yes",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "Yes",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No"
+      },
+      "creation_timestamp": "2021-03-21T13:49:28.408Z",
+      "id": "1fa585fe-39b4-45b5-b069-66816643937e"
+    },
+    {
+      "judgement_data_id": "8e86fcab-ffd4-4df5-9e45-1e9417cd0e1c",
+      "data": {
+        "0ea1f2e6-b532-44c0-821f-70a6ef6735eb": "Yes",
+        "cabe8e93-81be-4d48-8333-266f731af782": "No",
+        "c2e0da8e-0306-4a4b-b593-84c8a45395db": "Unsure",
+        "daee3dea-9939-4a41-a54c-8c48fd25f4b8": "Yes",
+        "cb5946b7-39a9-4d03-aa3a-9930a4c3d77e": "Unsure",
+        "60781b1a-0a9c-4802-9e0f-eea97e20db36": "No",
+        "670f17e8-1fa3-4a8b-9dc7-272e07e833ee": "Unsure",
+        "b9cbbf6a-43d8-4be3-aa6c-da60d1161ba8": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T15:42:05.633Z",
+      "id": "66660799-9943-4726-b2a5-112f206a264c"
+    },
+    {
+      "judgement_data_id": "1940c103-6cd0-4166-8869-a92fbf0210b7",
+      "data": {
+        "192eca32-d5c4-4933-9b6d-8434f9ebf48c": "No",
+        "11755246-3c48-4ba3-afa4-d26e038c2a55": "Yes",
+        "b3c912ec-f594-4fb8-92f0-555a0cf521cc": "No",
+        "4ff03983-427e-4f09-b00f-b35619ca7aab": "No",
+        "06595b02-6a27-481e-adc3-f4f49a7fc124": "Yes",
+        "5ecba7b7-008a-4a6d-b377-55d6051656e9": "Yes",
+        "6cf338bc-8613-4077-8878-f95ff6d1c9eb": "Unsure",
+        "18526cf6-d581-4339-880c-a277cdb3fb1e": "No"
+      },
+      "creation_timestamp": "2021-03-21T15:43:09.021Z",
+      "id": "0bb5d157-7d3b-45f3-b18b-ad4ef6fd9a2b"
+    },
+    {
+      "judgement_data_id": "57ca3471-8db9-4434-a466-d0582075995a",
+      "data": {
+        "39e4f6e6-be4d-4967-9420-98a42186a1e7": "No",
+        "00f9666f-622f-4aca-9861-6cab59a5fd8b": "No",
+        "041ef27a-3b9e-46a8-8cc3-cffe5393dd18": "No",
+        "019cb0b8-c38c-40e5-ac87-4ebafc8cdae4": "Yes",
+        "0ec0fc93-20d0-4bdc-9d36-a1ac105f6936": "No",
+        "4691085c-10fb-42f6-ab61-56fb7ad278e8": "No",
+        "7e6f927a-2c8c-49c2-af66-d9826d90a660": "Yes",
+        "04e05b6b-30e8-483d-9154-da720b88d8d1": "Unsure"
+      },
+      "creation_timestamp": "2021-03-21T15:43:39.827Z",
+      "id": "bbab1181-d4f4-4a7d-b124-caf1340db21d"
+    },
+    {
+      "judgement_data_id": "a26382bc-9435-431b-b45e-19ea93655958",
+      "data": {
+        "2b771286-15ce-48e9-875d-a43907557f24": "No",
+        "fe95c08a-a416-44e9-b564-612daff46542": "Yes",
+        "e31bfeb5-768f-417e-b881-4cf6d44c6d03": "Unsure",
+        "d79927e3-a709-47d6-a2b9-826d6fe3762d": "Yes",
+        "ea4435da-9f61-469d-a11a-33fcb9653054": "Yes",
+        "26f92135-ee3e-48dd-a6d6-4c9956f781ca": "Yes",
+        "fb6a1e79-37cf-4cbd-ad3f-48fa25dcf9ab": "Unsure",
+        "f4ffaa81-0d24-42eb-ab94-23143f4b24d1": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T15:44:22.283Z",
+      "id": "5bfa64ef-a043-459d-bff1-609a2d0a4549"
+    },
+    {
+      "judgement_data_id": "edde1a3f-7f0e-455c-ac73-16b543a573be",
+      "data": {
+        "00a10a00-761f-4940-bf86-fa04b38f8948": "Unsure",
+        "1f52b3fe-b53c-48c0-8dd2-a0427bb1609f": "Yes",
+        "03209ccd-0a82-4822-af66-5894431ca33b": "Yes",
+        "d73eb8d0-3d49-4753-b6ee-bec406df1d7c": "Yes",
+        "05f9ac69-e175-4b20-bd7f-b240c442660e": "Unsure",
+        "053ccf3a-ebd6-485b-b2e4-01a0949c3a45": "Unsure",
+        "0bd1427d-aafd-41bc-9c1f-02c8268de860": "No",
+        "c9ac63a5-802e-47b7-aaee-b28f166d56c5": "No"
+      },
+      "creation_timestamp": "2021-03-21T15:45:35.707Z",
+      "id": "7bb7e6fc-b510-4458-85f9-e524f6f54444"
+    },
+    {
+      "judgement_data_id": "08c3fda3-fed9-4ee3-a332-942c856887e2",
+      "data": {
+        "00626f03-9413-4d60-a177-8536b4b81ac1": "Yes",
+        "0e83c71c-aa23-46b5-9835-c9d19055e320": "No",
+        "a1b82a39-fa13-4168-bcd3-518cff9d6f94": "Unsure",
+        "fb46d636-944c-4501-be54-4e43745f32a2": "Yes",
+        "01ab12d1-27c9-43f5-9445-8c151995ba6b": "Yes",
+        "61b2a4a9-046f-440d-ad50-e7d5768e5338": "No",
+        "5ab9c311-e644-4f2c-9b88-cf57bd227b93": "No",
+        "012f6998-5906-4d3c-b3d6-1bdefe8e7fe9": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T15:46:17.033Z",
+      "id": "c400c7cd-dd3e-4b9d-b09d-f754224d8d07"
     }
   ],
   "posttask_questionnaire": [
@@ -6725,6 +9567,400 @@
       "creation_timestamp": "2021-03-17T09:09:21.983Z",
       "user_id": "fdc59e29-5564-46cd-af99-9f2d9f83ef14",
       "id": "b4dca6df-c5a7-4905-a865-caf53f0d5977"
+    },
+    {
+      "data": {
+        "age": "22",
+        "gender": "male",
+        "education": "Abitur/Hochschulreife",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL"
+        ],
+        "snippetEssentialElementOther": "",
+        "snippetEssentialElement_after": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Group_Tool"
+        ],
+        "other_textResponse_snippetEssentialElement_after": "",
+        "titleInfluenceCorrectness": "4",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "1",
+        "URLInfluenceCorrectness": "4",
+        "languagePhrasingInfluenceCorrectness": "2",
+        "stylingInfluenceCorrectness": "2",
+        "toolInfluenceCorrectness": "4",
+        "disability": "Yes",
+        "disability_explanation": "Would be a great way to stop spreading false information, like the thing on twitter where they flag false calims or jsut straight up false information.",
+        "g5_helpfullness_one": "3",
+        "g5_difficulty_one": "3",
+        "g5_intuitive_one": "3",
+        "g5_supportive_one": "3",
+        "g5_clean_one": "3",
+        "g5_confident_two": "0",
+        "g5_how_helped_three": "You can easily see false information",
+        "g5_decision_four": "1",
+        "g5_correctness_five": "3",
+        "g5_decision_six": "Yes",
+        "g5_change_seven": "Wouldn't really change it, I really like the concept"
+      },
+      "creation_timestamp": "2021-03-19T13:31:59.320Z",
+      "user_id": "a670c337-c49a-493e-8070-aec391990651",
+      "id": "61b6891b-6347-4391-8fe1-941a55bc23a3"
+    },
+    {
+      "data": {
+        "age": "14",
+        "gender": "male",
+        "education": "Hauptschulabschluss",
+        "snippetEssentialElementOther": "Nothing because the search engine has no influence to the homepage it self",
+        "titleInfluenceCorrectness": "1",
+        "descriptionInfluenceCorrectness": "1",
+        "positioningInfluenceCorrectness": "1",
+        "source/URLInfluenceCorrectness": "7",
+        "languagePhrasingInfluenceCorrectness": "4",
+        "stylingInfluenceCorrectness": "1",
+        "toolInfluenceCorrectness": "1",
+        "disability": "No",
+        "explanation": "I don't know what a heatbar is"
+      },
+      "creation_timestamp": "2021-03-19T13:35:23.890Z",
+      "user_id": "acd500db-98ee-480b-967d-6d9b58152647",
+      "id": "4cbfe84b-b256-49f3-9d7a-e04250ffdd4e"
+    },
+    {
+      "data": {
+        "age": "14",
+        "gender": "male",
+        "education": "Hauptschulabschluss",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing",
+          "Styling"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "5",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "2",
+        "source/URLInfluenceCorrectness": "4",
+        "languagePhrasingInfluenceCorrectness": "4",
+        "stylingInfluenceCorrectness": "3",
+        "toolInfluenceCorrectness": "2",
+        "disability": "Yes",
+        "explanation": "You may be able to find helpful websites faster."
+      },
+      "creation_timestamp": "2021-03-19T13:45:28.338Z",
+      "user_id": "71a97308-c8ec-45a1-8052-f4695b1108c3",
+      "id": "40ca3b95-1c21-459a-bbb4-3f004ad043b9"
+    },
+    {
+      "data": {
+        "age": "15",
+        "gender": "male",
+        "education": "Hauptschulabschluss",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "6",
+        "descriptionInfluenceCorrectness": "5",
+        "positioningInfluenceCorrectness": "4",
+        "source/URLInfluenceCorrectness": "3",
+        "languagePhrasingInfluenceCorrectness": "5",
+        "stylingInfluenceCorrectness": "3",
+        "toolInfluenceCorrectness": "4",
+        "disability": "Yes",
+        "explanation": "It helps to decide in a short amount of time which source will answer your research. "
+      },
+      "creation_timestamp": "2021-03-19T13:55:58.982Z",
+      "user_id": "555cf58b-b6ad-4266-84a7-cb52d07e4f3c",
+      "id": "b96d12b0-8562-4abf-ba61-2bbc7c7d26dc"
+    },
+    {
+      "data": {
+        "age": "21",
+        "gender": "male",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "4",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "1",
+        "source/URLInfluenceCorrectness": "4",
+        "languagePhrasingInfluenceCorrectness": "6",
+        "stylingInfluenceCorrectness": "4",
+        "toolInfluenceCorrectness": "5",
+        "starRatingHelpInSearch": "No",
+        "starRatingHelpInSearchExplanation": "Although ratings may be a good way to quickly see what others think about a source it is also well known that many companies are willing to buy good reviews (commonly seen on amazon e.g.). This could lead to false information getting more credibility."
+      },
+      "creation_timestamp": "2021-03-19T13:57:59.369Z",
+      "user_id": "7f676837-ee9f-408b-aa52-7cfff297a2e0",
+      "id": "19f99a1b-8033-4f0d-a528-4f2622602852"
+    },
+    {
+      "data": {
+        "age": "22",
+        "gender": "female",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Language phrasing",
+          "Styling"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "5",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "5",
+        "source/URLInfluenceCorrectness": "3",
+        "languagePhrasingInfluenceCorrectness": "6",
+        "stylingInfluenceCorrectness": "6",
+        "toolInfluenceCorrectness": "5",
+        "helperInSearchEngines": "Yes",
+        "helperInSearchEngineExplanation": "the more information the better",
+        "future": "Yes",
+        "explanationFuture": "the more information the better",
+        "explanationCorrectType": "a good description",
+        "explanationInCorrectType": "styling"
+      },
+      "creation_timestamp": "2021-03-19T14:08:00.381Z",
+      "user_id": "6dab12e8-6676-4ec4-b0e6-e2d94ab2844d",
+      "id": "66bf851f-7c67-434b-b340-7662adb085b4"
+    },
+    {
+      "data": {
+        "age": "20",
+        "gender": "female",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Description",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "3",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "2",
+        "source/URLInfluenceCorrectness": "7",
+        "languagePhrasingInfluenceCorrectness": "3",
+        "stylingInfluenceCorrectness": "1",
+        "misleadingInformation": "No"
+      },
+      "creation_timestamp": "2021-03-19T14:43:51.683Z",
+      "user_id": "c830440f-2e33-4065-8e3a-132731dd085a",
+      "id": "4df79382-6fc3-4ac3-bf84-9cebd37b1317"
+    },
+    {
+      "data": {
+        "age": "22",
+        "gender": "male",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "6",
+        "descriptionInfluenceCorrectness": "7",
+        "positioningInfluenceCorrectness": "3",
+        "source/URLInfluenceCorrectness": "5",
+        "languagePhrasingInfluenceCorrectness": "5",
+        "stylingInfluenceCorrectness": "2",
+        "misleadingInformation": "Yes",
+        "InfluenceOfTextWarningHints": "0",
+        "InfluenceOfVisualWarningHints": "-1",
+        "HelpfulOfTextWarningHints": "1",
+        "HelpfulOfVisualWarningHints": "-2",
+        "EnoughInfoWarningHints": "2",
+        "UnderstandableWarningHints": "3"
+      },
+      "creation_timestamp": "2021-03-19T17:20:15.502Z",
+      "user_id": "8a10be79-d69e-4947-b21d-55c6355a564e",
+      "id": "b94af4a1-7ac8-446e-a1ac-9b9d4040a287"
+    },
+    {
+      "data": {
+        "age": "21",
+        "gender": "male",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "5",
+        "descriptionInfluenceCorrectness": "4",
+        "positioningInfluenceCorrectness": "1",
+        "source/URLInfluenceCorrectness": "6",
+        "languagePhrasingInfluenceCorrectness": "5",
+        "stylingInfluenceCorrectness": "3",
+        "toolInfluenceCorrectness": "3",
+        "starRatingHelpInSearch": "No",
+        "starRatingHelpInSearchExplanation": "No because it can be false. The person that made the site could use JavaScript snippet´s to integrate a false rating"
+      },
+      "creation_timestamp": "2021-03-19T18:24:39.117Z",
+      "user_id": "2cb1cc82-4c4b-4d7f-8a06-b904e2b9b608",
+      "id": "098f04b6-b18d-439b-95df-cbe785c226b2"
+    },
+    {
+      "data": {
+        "age": "18",
+        "gender": "female",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing",
+          "Styling"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "7",
+        "descriptionInfluenceCorrectness": "7",
+        "positioningInfluenceCorrectness": "1",
+        "source/URLInfluenceCorrectness": "7",
+        "languagePhrasingInfluenceCorrectness": "7",
+        "stylingInfluenceCorrectness": "5",
+        "toolInfluenceCorrectness": "2",
+        "helperInSearchEngines": "Yes",
+        "helperInSearchEngineExplanation": "There is a big difference between the news and a prestigious scientific magazine. ",
+        "future": "Yes",
+        "explanationFuture": "There is a big difference between the news and a prestigious scientific magazine.",
+        "explanationCorrectType": "magazine",
+        "explanationInCorrectType": "News"
+      },
+      "creation_timestamp": "2021-03-20T11:05:58.734Z",
+      "user_id": "f9bd109d-b49f-4897-a32f-a0818d545ae6",
+      "id": "be9a8dd0-e3fc-4268-875b-2a9264a69eee"
+    },
+    {
+      "data": {
+        "age": "22",
+        "gender": "female",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": "Title",
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "5",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "1",
+        "source/URLInfluenceCorrectness": "1",
+        "languagePhrasingInfluenceCorrectness": "2",
+        "stylingInfluenceCorrectness": "1",
+        "misleadingInformation": "Yes"
+      },
+      "creation_timestamp": "2021-03-20T15:21:24.705Z",
+      "user_id": "e266ad0b-0174-43db-8061-cfc6247d4188",
+      "id": "1774fb72-e30a-4ec4-a1ff-fc75619fe3e3"
+    },
+    {
+      "data": {
+        "age": "21",
+        "gender": "female",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Positioning",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "5",
+        "descriptionInfluenceCorrectness": "5",
+        "positioningInfluenceCorrectness": "3",
+        "source/URLInfluenceCorrectness": "6",
+        "languagePhrasingInfluenceCorrectness": "3",
+        "stylingInfluenceCorrectness": "2",
+        "misleadingInformation": "Yes",
+        "InfluenceOfTextWarningHints": "2",
+        "InfluenceOfVisualWarningHints": "0",
+        "HelpfulOfTextWarningHints": "1",
+        "HelpfulOfVisualWarningHints": "1",
+        "EnoughInfoWarningHints": "1",
+        "UnderstandableWarningHints": "3"
+      },
+      "creation_timestamp": "2021-03-21T07:08:53.085Z",
+      "user_id": "0b780b36-fece-4acd-a0f9-26af78b80459",
+      "id": "fda0e2ec-f139-4837-a2e8-74d16c365ebb"
+    },
+    {
+      "data": {
+        "age": "22",
+        "gender": "female",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Positioning",
+          "Source/URL",
+          "Language phrasing",
+          "Styling"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "6",
+        "descriptionInfluenceCorrectness": "6",
+        "positioningInfluenceCorrectness": "2",
+        "source/URLInfluenceCorrectness": "6",
+        "languagePhrasingInfluenceCorrectness": "7",
+        "stylingInfluenceCorrectness": "4",
+        "misleadingInformation": "Yes"
+      },
+      "creation_timestamp": "2021-03-21T13:51:08.315Z",
+      "user_id": "b8382f55-9c89-4c7f-8116-6559d0253bc3",
+      "id": "ce297f26-c87e-43f8-910b-60a1c2c686f5"
+    },
+    {
+      "data": {
+        "age": "21",
+        "gender": "male",
+        "education": "Abitur/Hochschulreife",
+        "disability": "No",
+        "snippetEssentialElement": [
+          "Title",
+          "Description",
+          "Source/URL",
+          "Language phrasing"
+        ],
+        "snippetEssentialElementOther": "",
+        "titleInfluenceCorrectness": "5",
+        "descriptionInfluenceCorrectness": "7",
+        "positioningInfluenceCorrectness": "3",
+        "source/URLInfluenceCorrectness": "6",
+        "languagePhrasingInfluenceCorrectness": "7",
+        "stylingInfluenceCorrectness": "3",
+        "toolInfluenceCorrectness": "7",
+        "starRatingHelpInSearch": "No",
+        "starRatingHelpInSearchExplanation": "They could be fake, so it's probably the best just to educate yourself by reading multiple articles etc."
+      },
+      "creation_timestamp": "2021-03-21T15:48:59.133Z",
+      "user_id": "03c891c4-3206-4eb2-a821-175b0bd59b1a",
+      "id": "c68bf3cf-e620-4f29-9d6f-88fd61df8469"
     }
   ],
   "demographic_questionnaire": [],
@@ -6858,6 +10094,97 @@
         "anonymousUserIdentifier": "3977030a-4301-4d31-9d14-bb62e945ea53"
       },
       "id": "a63ff4b9-0215-4d49-ba9a-e12458a4e350"
+    },
+    {
+      "userGroup": "group5",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Joekel",
+        "firstname": "Daniel",
+        "matriculationNumber": "2165204",
+        "subject": "information science",
+        "emailAddress": "Daniel.Joekel@stud.uni-regensburg.de",
+        "anonymousUserIdentifier": "e1cb3dc0-bd38-40b2-9736-beb4d98e92c1"
+      },
+      "id": "b5180503-fa4b-4449-8594-78242c3fd23e"
+    },
+    {
+      "userGroup": "group4",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Graf",
+        "firstname": "Patrick",
+        "matriculationNumber": "2241481",
+        "subject": "Medieninformatik",
+        "emailAddress": "patrickgraf18@gmail.com",
+        "anonymousUserIdentifier": "d7ee8202-047d-4bd3-939a-4f095576cd34"
+      },
+      "id": "135b2b56-d184-43c2-9773-281eda66b9fa"
+    },
+    {
+      "userGroup": "group6",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Nelz",
+        "firstname": "Nico",
+        "matriculationNumber": "2171676",
+        "subject": "Informationswissenschaft",
+        "emailAddress": "Nico.Nelz@stud.uni-regensburg.de",
+        "anonymousUserIdentifier": "ce67feea-e108-4b27-b3b6-49d0025ad23f"
+      },
+      "id": "d706ddfe-20c7-4a3b-9c9f-663b4165849f"
+    },
+    {
+      "userGroup": "group2",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Thinius",
+        "firstname": "Louis",
+        "matriculationNumber": "2165134",
+        "subject": "Informationswissenschaften",
+        "emailAddress": "Louis.Thinius@stud.uni-regensburg.de",
+        "anonymousUserIdentifier": "1e97a05d-312e-4b0c-bf9b-a27a9b96b8a2"
+      },
+      "id": "c15b8fb5-0c96-4c37-b834-88233b76c890"
+    },
+    {
+      "userGroup": "group4",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Sauchea",
+        "firstname": "Catalin",
+        "matriculationNumber": "2186434",
+        "subject": "Medieninformatik HF Informationswissenschaft NF",
+        "emailAddress": "saucheac@icloud.com",
+        "anonymousUserIdentifier": "f17f62db-c092-44a4-9baf-ca20bb9baa25"
+      },
+      "id": "4d59a2a8-d6db-423a-8aeb-a46ab16c9988"
+    },
+    {
+      "userGroup": "group6",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Braun",
+        "firstname": "Angelina",
+        "matriculationNumber": "2201827",
+        "subject": "Medienwissenschaft",
+        "emailAddress": "Angelina.Braun@stud.uni-regensburg.de",
+        "anonymousUserIdentifier": "084d8beb-cf82-468b-bdf1-b88ec063adb5"
+      },
+      "id": "66db379a-cd8c-4488-bc64-ce43f0fa2655"
+    },
+    {
+      "userGroup": "group4",
+      "hasCompletedAllTopics": true,
+      "data": {
+        "lastname": "Prange",
+        "firstname": "Christoph",
+        "matriculationNumber": "2198262",
+        "subject": "Medieninformatik",
+        "emailAddress": "Christoph.Prange@stud.uni-regensburg.de",
+        "anonymousUserIdentifier": "2d184ac3-32f5-4b86-b526-48fb66491d53"
+      },
+      "id": "a0dfd47e-7828-4eae-883c-72e0331e1b7c"
     }
   ],
   "runtime_group_data": {}
